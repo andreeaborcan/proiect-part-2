@@ -1,0 +1,5 @@
+select * from BOOKGENRES ;
+INSERT INTO BOOKGENRES
+  (ISBN,id_gen
+  )
+SELECT books.ISBN, trunc(DBMS_RANDOM.VALUE(0,8)) FROM books;
