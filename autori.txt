@@ -1,0 +1,5741 @@
+Williams, P A
+Tyman, J H P
+Ahvenainen, R
+Briggs, D E
+Belton, P S
+Griffiths, M.
+Jongen, W
+Lelieveld, H L M
+Creaser, C
+Dickinson, E.
+Mead, G
+Isaacs, N S
+Karsa, D R
+Best, G A
+Dickinson, E.
+Manley, D
+Dickinson, E.
+Gunstone, F. D.
+Motarjemi, Y
+Taylor, A. J.
+Williams, C
+Fielding, M
+Schubert, H.
+Blackburn, C
+Felix D'Mello, J P
+Smit, G
+Schofield, J D
+Kerry, J P
+Codd, G A
+Dickinson, E.
+Scott, A O
+Mattila-Sandholm, T
+Brown, M.
+Watson, D
+Voilley, A
+Johnson, I T
+Southgate, D A T
+Swift, A D
+Waldron, K W
+Arnoldi, A
+Meuser, F
+Mattsson, B
+Eliasson, A-C
+Steele, R.
+Magan, N
+Hagg, M
+Mela, D
+Andrews, A T
+Cauvain, S P
+Ghabbour, E A
+Gould, WA
+Gould, WA
+Gould, WA
+Downing, D L
+Downing, D L
+Downing, D L
+Gould, WA
+Gould, WA
+Gould, WA
+Gould, WA
+Gould, WA
+Gould, WA
+Gould, WA
+Kohlmeier, Martin
+Williams, Richard
+Capinera, John
+Berta, Annalisa
+Carlile, Michael
+Harris, Kerry
+Jackson, Ronald
+Ksenzhek, Octavian
+Walter, Reginald
+Tomas, Carmelo
+Thomas, Brian
+Dey, P.
+Thorp, James
+Markow, Therese
+Sumida, Stuart
+Kocher, Thomas
+Singh, R. Paul
+Barbosa, Pedro
+Hall, Brian
+Smith, Sally
+Thompson, William
+Newton, Ian
+Crichton, Elizabeth
+Baskin, Carol
+Horn, Michael
+Crother, Brian
+Srivastava, Lalit
+Roy, Jacques
+Wehr, John
+Fisher, T.
+Landsberg, J.
+Kozlowski, Theodore
+Whittow, G.
+Graham, Jeffrey
+Callaway, Jack
+Mindell, David
+Jackson, Louise
+Sage, Rowan
+Schwenk, Kurt
+Luo, Yiqi
+Bazzaz, Fakhri
+Hull, Roger
+Cushing, Colbert
+Truett, Joe
+Klimley, A.
+Dodds, Walter
+Bourne, Malcolm
+Birkhead, Tim
+Balda, Russell
+De Silva, Sena
+Glynne Jones, Denys
+Wagner, Günter
+Koch, George
+Heyes, Cecilia
+Bazzaz, Fakhri
+Kozlowski, Theodore
+Cody, Martin
+Stiassny, Melanie
+Aubert, H.
+Zachar, D.
+Schnitzer, M.
+Koorevaar, P.
+Mulders, M.A.
+Campbell, I.B.
+Kumada, K.
+Vancura, V.
+Campbell, G.S.
+Douglas, L.A.
+Theng, B.K.G.
+Cappuccino, Naomi
+Alef, Kassem
+Dickison, William
+Warham, John
+Stevenson, R.
+Donald W. Pfaff
+Sale, Peter
+Barbosa-Canovas, Gustavo
+Thorpe, J.
+Petty, Tilden
+Ammerman, Clarence
+Roos, Yrjö
+Royce, William
+Sanderson, Michael
+Andrews, John
+Horrocks, Rodney
+Sakaguchi, M.
+Hasle, Grethe
+Hanski, Ilkka
+Marschner, Horst
+de Ruiter, Peter
+Hennessey, Timothy
+Shumway, Sandra
+Zimdahl, Robert
+Hanski, Ilkka
+Blomquist, Gary
+Luo, Yiqi
+Foster, Mercedes
+Zelditch, Miriam
+Kirkham, M.B.
+Factor, Jan
+Gartner, Barbara
+Robert G. Jensen
+Cushing, J. M.
+Jones, Jeremy
+Halver, John
+Mullen, Gary
+Nelson, Gerald
+Heldt, Hans-Walter
+Doelman, P.
+Holbrook, N. Michelle
+Nooden, Larry
+Lowman, Margaret
+Millspaugh, Joshua
+Hoy, Marjorie
+Beisner, Beatrix
+Pachepsky, Y.
+Brock, James
+Berra, Tim
+Jackson, Ronald
+Findlay, Stuart
+Stutchbury, Bridget
+Harris, Roger
+Caballero, Benjamin
+Ploger, Bonnie
+Vallentine, John
+Thomas, John
+Schowalter, Timothy
+Nobel, Park
+Skalski, John
+Fox, Patrick
+Han, Jung
+Fox, Patrick
+Moon, T.W.
+Reekie, Edward
+Hemsley, Alan
+Experts from Dole Food Company
+Sun, Da-Wen
+Marler, Peter
+Stone, Herbert
+Cameron, David
+Kritzer, Jacob
+Russell, Inge
+Cadrin, Steven
+Hallgrímsson, Benedikt
+Buongiorno, Joseph
+Flanagan, Lawrence
+Gregorich, E.G.
+Scharpenseel, H.W.
+Harrell, R.M.
+van Ittersum, M.K.
+Ida Valeton
+IAHR
+F.E. Allison
+H.E. Dregne
+Yair Ben-Dov, Chris J. Hodgson
+Yair Ben-Dov, Chris J. Hodgson
+Violante, A.
+Violante, A.
+Contributors, Multiple
+Bisdom, E.B.A.
+Bolt, G.H.
+Wilding, L.P.
+Wilding, L.P.
+Kiss, S.
+Yang, Chong-Ren
+Shannon, Vere
+Tucker, C.S.
+Motos, Lorenzo
+Bredie, Wender
+Ohrnberger, D.
+Colt, J.
+Gomez-Campo, C.
+Skjoldal, H.R.
+Leigh, G.J.
+Dvorak, J.
+Lawrence, J.M.
+Datnoff, L.E.
+Schytte Blix, A.
+Barkai-Golan, R.
+Snakin, V.V.
+Ringrose-Voase, A.J.
+Shoji, S.
+Bhojwani, S.S.
+Lindquist, E.E.
+Pennell, W.
+Barthelemy, D.
+Denlinger, D.L.
+Ahmad, N.
+McGlade, J.M.
+Ma, Jian Feng
+de Vries, G.E.
+Pachepsky, Y.
+Gupta, A.K.
+von Bothmer, R.
+Mitchell, P.L.
+Doxastakis, G.
+Romero, C.
+Arencibia, A.D.
+Saunders, D.S.
+Vohnout, K.
+Mommsen, T.P.
+Charalambous, G.
+Mommsen, T.P.
+Contis, E.T.
+Wetzel, D.L.B.
+Short, F.T.
+Kraeuter, J.N.
+Piperno, Dolores
+Cortés, J.
+Gobran, G.R.
+Gaonkar, A.G.
+Simon, Herbert A.
+Sakai, K.
+Vaddi, Krishna
+Norman, Anthony
+Ream, Walt
+Conrad, H.
+Karow, Armand
+Stadtman, Earl
+Angeletti, Ruth
+Echalier, Guy
+Bird, R.
+D'Alessio, Giuseppe
+Marshak, Daniel
+Parks, William
+Harvey, Richard
+Fernandez, Joseph
+Sninsky, John
+Moody, Sally
+Sherbet, Gajanan
+Barclay, A.
+Hesketh, Robin
+Hardy, Daniel
+Alpen, Edward
+Van Winkle, Lon
+Birnbaumer, Lutz
+Maunsbach, Arvid
+Richter, Joel
+Ashcroft, Frances
+Sen, Chandan
+Ayad, Shirley
+Lacey, Lawrence
+Hung, Mien-Chie
+Stephanopoulos, Gregory
+Rosen, Clifford
+Bishop, Martin
+Brody, Tom
+Bhagavan, N.V.
+Fitzgerald, Katherine
+Davidson, Eric
+Morley, Bernard
+Eggleston, D.
+Bishop, Martin
+Griffith, Jeffrey
+Packer, Lester
+Mason, W.
+White, Melanie
+McRee, Duncan
+Alcamo, I. Edward
+Kenneth W. Adolph
+Glasel, Jay
+Karcher, Susan
+Conley, Edward
+Hermanson, Greg
+Frank, Joachim
+Gilbert, Lawrence
+Ellis, Robert
+Eun, Hyone-Myong
+Lancaster, Jr., Jack
+Conway, Michael
+Kay, Brian
+Carey, Paul
+Schwartz, Stephen
+Siuzdak, Gary
+Stadtman, Earl
+Young, Neal
+Kramer, Ijsbrand
+Mak, Tak
+Schindhelm, Klaus
+John A. Thomas
+Ignarro, Louis
+Wolffe, Alan
+Ingram, Peter
+Peters, Jr., Theodore
+Langer, Glenn
+Potten, C.
+Barany, Michael
+Becker, Jeffrey
+Birren, Bruce
+Bittar, Edward
+Tipton, Charles
+Kriete, Andres
+Semenza, Giorgio
+Finegold, David
+Stocum, David
+Kastin, Abba
+King, Michael
+Conn, P. Michael
+Crabb, John
+Innis, Michael
+Gimble, Jeffrey
+Lattime, Edmund
+Dalbey, Ross
+Lefranc, Marie-Paule
+Nicholls, David
+Drexler, Hans
+Doran, Pauline
+Hayat, M.
+Hayat, M.
+Skinner, Michael
+Celis, Julio
+Okazaki, Isao
+Laudet, Vincent
+Syvanen, Michael
+Bilezikian, John
+Kohen, Elli
+Gutte, Bernd
+Stadtman, Earl
+Friedman, Jacob
+Dempster, John
+Hall, Brian K.
+Rossant, Janet
+Baguley, Bruce
+Kenneth W. Adolph
+Kenneth W. Adolph
+Wells, Robert D.
+Hunte, Carola
+Bradshaw, Ralph
+Hayat, M.
+Marsh, Steven
+Brammar, William
+Neill, Jimmy
+Calladine, Chris
+Sperelakis, Nicholas
+Isacke, Clare
+Randy L. Jirtle
+Hayat, M.
+Banaszak, Leonard
+Kricka, Larry
+Inouye, Masayori
+Hardie, Grahame
+Holland, I Barry
+Cibelli, Jose
+Gerber, Sanford
+Hunter, Graeme
+Farrell, Jr., Robert E.
+Stephenson, Frank
+Kumar, Sanjeev
+Sherbet, Gajanan
+Bittar, Edward
+McIntire, Larry
+Carpenter, Graham
+David S. Latchman
+Davidson, Eric
+Lanza, Robert
+Trent, R.
+Blackburn, George
+Feldman, David
+Bolander, Franklyn
+Reid, Marion
+Gregory, T.
+Draznin, Boris
+Balny, C.
+Visser, J.
+Semenza, G.
+Malhotra, S.K.
+Gordon, S.
+Dalbey, R.E.
+Ghigo, E.
+Wood, D.P.
+Bittar, Edward
+Sen, C.
+Storey, J.M.
+Storey, K.B.
+Storey, J.M.
+Semenza, G.
+Henderson, John
+Periasamy, Ammasi
+Niewöhner, Jörg
+Plou, F.J.
+Yongxiang, Lu
+Semenza, G.
+Masoro, E.J.
+Bielecki, S.
+Hayashi, R.
+Norus, J.
+Stocken, L.A.
+Stocken, L.A.
+Ord, M.G.
+Heppner, G.
+Verma, R.S.
+Verma, R.S.
+Verma, R.S.
+Petersen, S.B.
+Buitelaar, R.M.
+Chapman, B.J.
+Chu, C.K.
+Endo, I.
+Viikari, L.
+Palumbo, M.
+Peters, W.P.
+Stocken, L.A.
+Bondy, C.
+Bondy, C.
+Bondy, C.
+Hesketh, J.E.
+Pryme, I.F.
+Hesketh, J.E.
+Rothman, S.S.
+Rothman, S.S.
+Park, K.-H.
+Bittar, Edward
+E. Edward Bittar, Neville Bittar
+Bittar, Edward
+Bittar, Edward
+Bittar, Edward
+Rothman, S.S.
+Gross, R.W.
+Gross, R.W.
+Wolffe, A.P.
+Jaenicke, R.
+Malhotra, S.K.
+Malhotra, S.K.
+LeRoith, D.
+Villar, H.O.
+Bittar, Edward
+Bittar, Edward
+Bittar, Edward
+Bittar, Edward
+Bittar, Edward
+Bittar, Edward
+Bittar, Edward
+Bittar, Edward
+Bittar, Edward
+Endo, I.
+Chu, C.K.
+Aalbersberg, W.Y.
+LeRoith, D.
+Morohoshi, N.
+Lee, A.G.
+Lee, A.G.
+Lee, A.G.
+Lee, A.G.
+Lee, A.G.
+Lee, A.G.
+Chaires, J.B.
+Gordon, S.
+Garg, Hari
+Palyi, Gyula
+Söll, D.
+Garg, Hari
+Andersson, S.
+Doucet, Jean-Pierre
+Beckmann, Nicolau
+Zubay, Geoffrey
+Carson, Ewart
+Stavenga, D.G.
+Moss, F.
+Sarkar, S.K.
+Lipowsky, R.
+Patrick, C.W.
+Konings, W.N.
+Finkelstein, Alexei
+Bogdanov, Konstantin
+Speicher, David
+Marshak, Daniel
+Kung, H.H.
+Koukal, J.
+Vetter, G.
+Fitch, Robert
+Boyce, Meherwan
+Jacobs, P.A.
+Morterra, C.
+Anthony, R.G.
+Klinowski, J.
+Bibby, D.M.
+Boldyrev, V.V.
+Trimm, D.L.
+Tanabe, K.
+Centi, G.
+Misono, M.
+Matsuura, T.
+Cervený, L.
+Che, M.
+Držaj, B.
+Golodets, G.I.
+Murakami, Y.
+Ward, J.W.
+Barrault, J.
+Gates, B.C.
+Grobet, P.J.
+Imelik, B.
+Kazansky, V.B.
+Martens, J.A.
+Jíru, P.
+Mahay, A.
+Kaliaguine, S.
+Bénard, J.
+Bandosz, Teresa J.
+Rhee, Hyun-Ku
+Sayari, Abdel
+Kral, H.
+Wissmann, P.
+Inui, T.
+Matros, Y.S.
+Christoffel, E.G.
+Hao, Tian
+Murzin, Dmitry
+Cejka, Jiri
+Kabe, Toshiaki
+Lei, Zhigang
+Srivastava, R.C.
+Occelli, M.L.
+Gani, R.
+Terasaki, Osamu
+Nadovich, Chris
+Bao, Xinhe
+Abraham, Martin A.
+Cameron, Ian
+Girdhar, Paresh
+Scheffer, Cornelius
+Vijayaraghavan, G
+Puigjaner, Luis
+Allen, T.
+Iwasawa, Y.
+Pop, I.
+Froment, G.F.
+King, Matt
+Garrett, Donald
+Sadana, Ajit
+Ingham, Derek
+de Lemos, Marcelo
+Barbosa-Póvoa, Ana Paula
+Kandlikar, Satish
+Abbott, Doug
+Vazquez-Duhalt, Rafael
+Möbius, D.
+El-Dessouky, H.T.
+Shchukin, E.D.
+Sadana, Ajit
+Cejka, Jiri
+Mahieux, Celine
+Jacobs, P.A.
+Aldrich, C.
+Drioli, Enrico
+Kanani, Nasser
+Sharma, Kal Renganathan
+Guerrero-Ruiz, A.
+Robson, H.
+Fredholm, O.
+Treacy, M.M.J.
+Baerlocher, Ch.
+Jaroniec, M.
+Gamba, Aldo
+Spivey, J.J.
+Lyklema, J.
+Marquardt, Wolfgang
+Bertucco, A.
+Moebius, D.
+Young, Petey
+Grievink, J.
+Tien, H.T.
+Cybulski, A.
+Colella, C.
+Fleisch, T.H.
+Kim, Sung-Hoon
+Pop, I.
+Davenport, William
+Shiono, Takeshi
+Norfield, Derek
+Capek, Ignac
+Weaver, G.
+Inglezakis, Vassilis
+Ligler, Frances
+Gaigneaux*, E.
+van Steen, E.
+van Steen, E.
+van Steen, E.
+Decolon, Christian
+Kolev, Nikolai
+Marcus, Philippe
+Sadana, Ajit
+Cejka, Jiri
+Kotoyori, Takashi
+Llewellyn, Philip
+Tien, Chi
+Sullivan, Patrick
+Sutherland, K
+Sutherland, K
+Crucq, A.
+Froment, G.F.
+Yermakov, Y.I.
+Sing, Kenneth
+Poncelet, G.
+Poncelet, G.
+Poncelet, G.
+Poncelet, G.
+Keii, T.
+Richardson, N.V.
+Koukal, J.
+Matros, Y.S.
+Xiang, Hong Wei
+Karge, H.G.
+Absi-Halabi, M.
+Namba, S.
+Cortés Corberán, V.
+Kiskinova, M.P.
+Flanigen, E.M.
+Bott, T.R.
+Holmen, A.
+Guczi, L.
+Schobert, H.H.
+Delmon, B.
+Unger, KK
+Öhlmann, G.
+Kubelková, L.
+Bartholomew, C.H.
+Keii, T.
+Crucq, A.
+Rusanov, A.I.
+Simándi, L.I.
+Grasselli, R.K.
+A. Dabrowski
+A. Dabrowski
+J.L.G. Fierro
+Awaja, Firas
+Berty, J.M.
+Huilgol, R.R.
+Aris, Rutherford
+Froment, G.F.
+Froment, G.F.
+Galarneau, A.
+Levy, A.
+de Pontes, M.
+Lyklema, J.
+Delmon, B.
+Desmurs, J.-R.
+Klenin, V.J.
+Amils, R.
+Siginer, D.A.
+Kralchevsky, P.
+Ring, Terry
+Parmaliana, A.
+Chatterjee, P.K.
+Sideris, M.
+Fujimoto, K.
+Zeitsch, K.J.
+Hesketh, R.P.
+Chang, H.-C.
+Romagnoli, José
+Middleman, Stanley
+Ingham, Derek
+Piau, J.-M.
+Kruse, N.
+Bonneviot, L.
+Maggi, R.
+Kiricsi, I.
+Sadana, Ajit
+Biermann, Christopher
+Tamir, A.
+Karmakar, S.R.
+Hoffman, E.J.
+Chanson, Hubert
+Magee, J.S.
+Guisnet, M.
+Slin'ko, M.M.
+Fernandez-Prini, Roberto
+Finlay, Warren
+Bhattacharyya, Dibakar
+Demirel, Yasar
+Dimian, A C
+Dukhin, Andrei S.
+Kontogeorgis, Georgios M.
+Kraslawski, Andrzej
+Lu, Shouci
+Modest, Michael
+Corma, A.
+Mobius, Dietmar
+Rodríguez-Reinoso, F.
+Park, Sang-Eon
+Satoh, A.
+Srivastava, R.C.
+Strathmann, H
+Tien †, H.T.
+Ranade, Vivek
+Darton, R.
+Chaudhry, Amanat
+Attwood, Dennis
+Davis, H.
+Wojciechowski, Bohdan
+Hocking, Martin B.
+Lyklema, J.
+Sato, Norio
+Steynberg, Andre
+van den Akker, H.E.A.
+Pierucci, S.
+Boyadjiev, C.B.
+Smith, Gerard
+Tschoegl, N.W.
+Ramkrishna, Doraiswami
+Kreysa, G.
+Kazakov, V.N.
+Cameron, Ian
+DeGeare, Joe
+Achenie, Luke
+Macchietto, S.
+Braunschweig, Bertrand
+Stringfellow, Gerald
+Freeman, H.S.
+Baláž, P.
+Lyklema, J.
+Reiji Mezaki
+Curry-Hyde, H.E.
+Desmurs, J.-R.
+Kevan, S.D.
+Dabrowski, A.
+Steele, W.A.
+Möbius, D.
+Christou, M.D.
+Mobius, D.
+Stöcker, M.
+Hölderich, W.
+Weitkamp, J.
+Kajiyama, T.
+Hattori, T.
+Froment, G.F.
+Smith, K.J.
+Pajares, J.A.
+Chon, H.
+Rodríguez-Reinoso, F.
+Terano, M.
+Hattori, H.
+Kanellopoulos, N.K.
+Murphy, J.
+Pinnavaia, T.J.
+Dukhin, S.S.
+Gaonkar, A.G.
+Noble, R.D.
+Astarita, G.
+Guczi, L.
+Burggraaf, A.J.
+Kamat, P.V.
+Beyer, H.K.
+Vansant, E.F.
+Hightower, J.W.
+Poncelet, G.
+Ruiz, P.
+Wada, Y.
+Bonneviot, L.
+Inui, T.
+Prasada Rao, T.S.R.
+Chon, H.
+Veverka, V.V.
+Delmon, B.
+Li, Can
+Frennet, A.
+Hsieh, H.P.
+Suzuki, M
+Chaouki, J.
+Blaser, H.U.
+Alexandridis, P.
+Barbier, J.
+Dragutan, V.
+Moulijn, J.A.
+Exerowa, D.
+Froment, G.F.
+Oyama, S.T.
+Dhont, J.K.G.
+von Rohr, P.R.
+Fuentes, G.A.
+Binder, K.
+Myerson, Allan
+Cheremisinoff, Nicholas P
+Biran, Adrian
+Bloch, Heinz P.
+Higman, Christopher
+Kletz, Trevor
+Grace, Robert
+Ludwig, Ernest E.
+Clein, Dan
+NEALE, Michael J
+Mills, David
+Hurst, Ken
+Roughton, James
+Armarego, W.L.F.
+Hull, D.
+von Baeckmann, Walter
+Ludwig, Ernest E.
+Thomson, Norman
+Beeley, Peter
+Pratt, Joseph A.
+Burleson, Clyde W.
+Coker,  PhD, A. Kayode
+Page, John S.
+Lee, R. R.
+Branan, Carl R.
+Matar, Ph.D., Sami
+McMillan, Alan
+Buryakovsky, L.
+Yaws, Carl L.
+Yaws, Carl L.
+Yaws, Carl L.
+Coker,  PhD, A. Kayode
+Staab, George
+Fullwood, Ralph
+Kohl, Arthur L
+Narasimhan, Ph.D. (Ch.E.), Dr. Shankar
+Page, John S.
+Lapeyrouse, Norton J.
+Park, Sang-Eon
+Gupta, Ashok
+Reis, Ph.D., DR. John C.
+Sadeghbeigi, Reza
+Nelson, Ronald
+Carroll, John
+Upp, E. Loy
+Florczak, Clifford
+Choppin, Gregory
+Arnold, Ken
+Cheremisinoff, Nicholas P
+Tricker, Ray
+Kruglyakov, P.M.
+Neumaier, Robert
+Arnold, Ken
+Pistoia, G.
+Ludwig, Ernest E.
+Chen, Bingzhen
+Seferlis, Panos
+Cheremisinoff, Nicholas P.
+Vogel, Henry C.
+Wilmshurst, T. H.
+Aiello, R.
+Llewellyn, David
+Herbich, John B.
+Yaws, Carl L.
+Catlow, C.R.A.
+Brunner, Gerd
+van Rijn, CJM
+Parkash, Ph. D, Surinder
+Couper, James R.
+Burns, Thomas
+Yew, Ching H.
+Wypych, Fernando
+Pocius
+Liu, Huimin
+Petsev, Dimiter
+Seshan, Krishna
+Boxman, Raymond L.
+White, Logan T.
+Mattox, Donald M.
+Li, Dongqing
+Horanyi, G.
+Popov, Oleg A.
+Maloratsky, Leo
+Ikada, Yoshito
+Wang, Chiu-sen
+D'Arrigo, Joseph
+Tosun, Ismail
+Ponec, V.
+Rosen, Meyer
+Tipton, Charles
+Ciullo, Peter A.
+Soo, S.L.
+Bradl, Heike
+Korver, W.O.E.
+Krasny, John
+Yang, Wen-Ching
+Occelli, Mario
+Byrappa, Kullaiah
+Pierson, Hugh O.
+Verloop, Jan
+El-Halwagi, Mahmoud M.
+Tompkins, Harland
+Cheremisinoff, Nicholas P.
+Nolan, Dennis P.
+McHardy, John
+Uyeda, Tyozi
+Unger, Thomas A.
+Liu, Huimin
+Farrow, Robin F.C.
+Mattox, D. M.
+J.L.G. Fierro
+Averill, B.A.
+Hoffman, E.J.
+Chin,  PhD, Wilson C.
+Tanner, R.I.
+McAllister, E.W.
+Ribbens, William
+Bourdon, Jean
+Imelik, B.
+Delmon, B.
+Imelik, B.
+Brundle, C.
+G.M. Pajonk, S.J. Teichner, J.E. Germain
+M. Laznicka
+Seiyama, T.
+Seiyama, T.
+Hattori, H.
+Anpo, M.
+Mason, T J
+Malati, M A
+Hay, R W
+Wright, M R
+Pletcher, D
+Barrett, J
+Ladd, M
+Siekierski, S C
+Rouvray, D H
+Ladd, M
+Burgess, J
+Maddock, A. G.
+Dyer, A
+Duffus, J H
+Sequeira, C A C
+Aizawa, Hiroyasu
+Compton, R.G.
+Compton, R.G.
+Compton, R.G.
+Khairutdinov, R.F.
+Compton, R.G.
+Compton, R.G.
+Bamford, C.H.
+Bamford, C.H.
+Bamford, C.H.
+Brown, Michael
+Compton, R.G.
+Compton, R.G.
+Bamford, C.H.
+Rice, S.A.
+Compton, R.G.
+Bamford, C.H.
+Bamford, C.H.
+Compton, R.G.
+Compton, R.G.
+Bamford, C.H.
+Compton, R.G.
+Bamford, C.H.
+Bamford, C.H.
+Pelletier, S.W.
+Jennings, Walter
+Swaddle, T.
+Weston, Andrea
+Wu, Chi-san
+Sandler, Stanley
+Becker, Edwin
+Karlberg, B.
+Dr. Robert G. Mortimer
+McCracken, Garry
+Compton, R.G.
+Compton, R.G.
+Dubin, P.L.
+Bidlingmeyer, B.A.
+Zupan, J.
+Bamford, C.H.
+Cantle, J.E.
+Cesareo, R.
+Drozd, J.
+Glöckner, G.
+Schoenmakers, P.J.
+Scott, R.P.W.
+Smardzewski, R.R.
+Guiochon, G.
+Desiderio, D.M.
+Macek, K.
+Dressler, M.
+Everaerts, F.M.
+Huber, J.F.K.
+Jandera, P.
+Valcárcel, M.
+Middleditch, B.S.
+Wagman, G.H.
+Klamt, Andreas
+Cepanec, Ivica
+Rhodes, Gale
+Ropp, Richard
+Agulyansky, Anatoly
+Moldoveanu, Serban
+Dykstra, Clifford
+Williams, D.L.H.
+Pistoia, Gianfranco
+DeRosa, Thomas F.
+Harmata, M.
+Masuhara, Hiroshi
+Harmata, M.
+Elk, Seymour
+Atta-ur-Rahman
+Romeo, John
+Eriksson, L.A.
+Svec, F.
+Martin, Monique M.
+Cherginets, Victor
+Abramczyk, Halina
+Carlson, Rolf
+Olivucci, Massimo
+Quinn, Charles M.
+Togo, Hideo
+Nakajima, Tsuyoshi
+Manaa, M.R.
+Heftmann, E.
+Heftmann, E.
+Kaloustian, Moses K.
+Stoyanov, A.
+Saunders, J.A.
+Molnar-Perl, Ibolya
+Kleibohmer, W.
+Jonah, C.D.
+Rahman, Atta-ur-
+Rahman, Atta-ur-
+Atta-ur-Rahman
+Gribble, Gordon
+Romeo, John
+Giacomoni, P.U.
+Romeo, John
+Kawamori, Asako
+Pelletier, S.W.
+Häder, D.-P.
+Harmata, M.
+Moldoveanu, S.C.
+C.W. Gehrke, R.L. Wixom, E. Bayer
+Palecek, E.
+McKillop
+Valko
+Troev, Kolio Dimov
+Peruzzini, M.
+Garrigues, Ph.
+Bruns, Roy
+Douhal, Abderrazzak
+Calzavara-Pinton, P.
+D.A. King, D.P. Woodruff
+Romeo, John
+Luque García, J.L.
+Helfferich, Friedrich
+Woodruff, D.
+Bogdal, D.
+Balci, Metin
+Sastri, V.S.
+Boeyens, Jan C.A.
+Tressaud, Alain
+Klabunde, Kenneth
+Pietra, F
+Voloshin, Y.Z.
+Gribble, Gordon
+Hassner, A.
+Clayden, J
+Bogusz, Maciej
+Nalewajski, Roman
+Sestak, Jaroslav
+Masuhara, Hiroshi
+Massart
+Massart
+Mathey
+Finet
+Williams, R.J.P
+Condon, James B.
+Gribble, G.W.
+Gribble, Gordon
+Abu Ali, Hijazi
+Danek, Vladimir
+Balke, S.T.
+Belenkii, B.G.
+Berezkin, V.G.
+Dahmen, E.A.M.F.
+Banks, R.E.
+Novotny, M.V.
+Unger, KK
+Zlatkis, A.
+Turková, J.
+Weinstein, M.J.
+Parris, N.A.
+Tressaud, Alain
+Tkachenko, Nikolai
+Grob, R.L.
+Krell, E.
+Kucera, P.
+Kuksis, A.
+Lawrence, J.F.
+Wu, Guozhen
+Ohrstrom, Lars
+Dijkstra, A.
+Deming, S.N.
+Meuzelaar, H.L.C.
+Starikov, Evgeni
+Hanai, T.
+Krull, I.S.
+Kucera, M.
+Hopke, P.K.
+Deming, S.N.
+Ryan, T.A.
+Saisho, H.
+Bamford, C.H.
+Yablonskii, G.S.
+Compton, R.G.
+Jinno, K.
+Rotzsche, H.
+Berezkin, V.G.
+Karjalainen, E.J.
+Okninski, A.
+Buydens, L.M.C.
+Carlson, R.
+Charles W. Gehrke, Kenneth C.T. Kuo
+E. Heftmann
+O. Mikes
+O. Mikes
+Zhizhin, G.N.
+Galabov, B.S.
+Lazarev, A.N.
+Durig, J R
+Scriven, E. F. V.
+Levy, D.E.
+R.W. Frei, K. Zech
+Zech, K.
+Gawley, R.E.
+Z. Deyl
+Z. Deyl
+Charles W. Gehrke, Kenneth C.T. Kuo
+Charles W. Gehrke, Kenneth C.T. Kuo
+Vercruysse, A.
+E. Heftmann
+E. Heftmann
+Maksic, Z.B.
+Párkányi, C.
+Clary, D.C.
+Taylor, Howard
+Koenig, J.L.
+Sellergren, B.
+Valkovic, Vlado
+Workman, Jr., Jerry
+Audrey Miller
+Barcelo, Damia
+Goupy, J.L.
+Sugimoto, T.
+Hendriks, M.M.W.B.
+Purdie, N.
+Barcelo, Damia
+Zucchi, C.
+Nakajima, T.
+Boca, R.
+Leszczynski, J.
+Bertini, Ivano
+Maier, E.A.
+Smith, R.M.
+Galwey, A.K.
+Felinger, A.
+Asakura, T.
+Pelletier, S.W.
+Lefebvre-Brion, Helene
+Page, Philip
+Kitson, Fulton
+Bruckner, Reinhard
+Pelletier, S.W.
+Rouquerol, Jean
+Atta-ur-Rahman
+Sanz-Medel, A.
+Suzuki, Hitomi
+Gribble, G.W.
+Hancock, G.
+Sundberg, Richard
+Balbuena, Perla
+Turrell, George
+Wakefield, Basil
+Mortimer, Robert
+Turková, J.
+Linne, Mark
+Berkowitz, Joseph
+Osborn, Helen
+Attard, Phil
+Goodwin, Anthony
+Kamide, Kenji
+Denisov, Evgeny
+Khripach, V.
+Mulak, J.
+Weir, Ron D.
+Catlow, C.R.A.
+Grimmett, M.
+El-Rassi, Ziad
+Fiaud, J.
+Varvoglis, A.
+Poole, Colin
+Ivin, K.
+Mozumder, A.
+Honig, Jurgen
+Nyquist, Richard
+Hempel, Georg
+Marko-Varga, Gyorgy
+Svec, F.
+Oosterbroek, Edwin
+Bunin, Barry
+Page, Philip
+Workman, Jr., Jerry
+Gronowitz, Salo
+Jones, R.
+Stick, Robert
+Walczak, B.
+Gribble, G.W.
+Warren, Warren
+Smith, Brian
+Campbell, Wallace
+Sato, Norio
+Adlard, E.R.
+Valcárcel, M.
+Serratosa, F.
+Naes, T.
+Mauser, H.
+Barcelo, Damia
+Kalivas, J.H.
+Barcelo, Damia
+Ferraro, John
+Gribble, G.W.
+Gorrod, J.W.
+Garnovskii, A.D.
+Betina, V.
+Frank, I.E.
+Scheller, F.
+Nomura, H.
+Murray, J.S.
+Maier, E.A.
+Seminario, Jorge
+Herber, R.F.M.
+Hyde, S.
+Ibrahim, R.
+Sengers, J.V.
+Gilchrist, Thomas L.
+Stoeppler, M.
+Gy, P.M.
+El Rassi, Z.
+Politzer, P.
+Paré, J.R.J.
+Pelletier, S.W.
+Pelletier, S.W.
+Kuptsov, A.H.
+Mik&sbreve;ik, I.
+Polavarapu, P.L.
+Tyman, J.H.P.
+Kieslich, K.
+Suschitzky, H.
+Kotomin, E.
+Pilling, M.J.
+Rutledge, D.N.
+Batta, G.
+Burgess, Christopher
+Moldoveanu, S.C.
+Binhi, Vladimir
+Samson, James
+Rouvray, Dennis
+Weinberger, Robert
+Ott, J.
+Ott, J.
+Kamide, K.
+Grimshaw, J.
+Marczenko, Z.
+Gyorgydeak, Zoltan
+Leszczynski, Jerzy
+Brown, Michael
+Mark, Howard
+Durr, Heinz
+Romeo, John
+Gribble, Gordon
+Rahman, Atta-ur-
+Wilson, Ian
+Helfferich, Friedrich
+Politzer, P.A.
+Politzer, P.A.
+Kurosawa, Hideo
+Schwerdtfeger, Peter
+Schwerdtfeger, Peter
+Cooper, David
+Woodruff, D.
+Cheng, Stephen
+Moad, Graeme
+Gajewski, Joseph
+Woodruff, D.
+Brandsma, Lambert
+Atta-ur-Rahman
+Atta-Ur-Rahman
+Atta-Ur-Rahman
+Atta-Ur-Rahman
+Atta-Ur-Rahman
+Atta-Ur-Rahman
+Hansen, Jean-Pierre
+Boeyens, Jan C.A.
+Atta-Ur-Rahman
+Atta-ur-Rahman
+Atta-Ur-Rahman
+Atta-ur-Rahman
+Atta-ur-Rahman
+Atta-Ur-Rahman
+Albani, J.R.
+Atta-ur-Rahman
+Atta-ur-Rahman
+Leardi, Riccardo
+Brown, Michael
+Kemp, Richard
+Ropp, Richard
+Green, Nicholas
+Quinn, Charles M.
+Karukstis, Kerry K.
+L'Annunziata, Michael
+Gerald H. Wagman, Marvin J. Weinstein
+T. Braun, G. Ghersini
+Jiri Sevcik
+N.A. Parris
+Erich Heftmann
+A. Zlatkis, R.E. Kaiser
+V.G. Berezkin, V.R. Alishoyev, I.B. Nemirovskaya
+R.P.W. Scott
+T.R. Roberts
+Marvin J. Weinstein, Gerald H. Wagman
+L.S. Ettre, A. Zlatkis
+E. Heftmann
+A. Baerheim Svendsen, R. Verpoorte
+R. Verpoorte, A. Baerheim Svendsen
+Fabrizio Bruner
+Deming, S.N.
+Valkó, P.
+Kastner, M.
+Claridge, T.
+Li, S.F.Y.
+Karjalainen, E.J.
+Gribble, G.W.
+Sessler, J.L.
+Obrecht, D.
+Brereton, R.G.
+Evans, Brian
+Paul R. Haddad, Paul R. Haddad
+Sainsbury
+Coffey, S.
+Ansell, M.F.
+Anzai, Y.
+Bitzer, Jürgen
+Suter, Bruce
+Dahmen, Wolfgang
+Winder, Steve
+Anderson, Howard
+Winder, Steve
+Kavanagh, Paul
+Andres, Steven
+Thieme, Richard
+Grand, Joe
+Littlejohn Shinder, Debra
+Miller, Drew
+Zhao, Wenyi
+Bias, Randolph
+Caswell, Brian
+Weiss, Jason
+Rittinghouse, PhD, CISM, John
+Hobbs, Lilian
+Teorey, Toby
+Rittinghouse, PhD, CISM, John
+Grand, Joe
+Syngress
+Syngress
+Erbschloe, Michael
+Schulz, Greg
+Makofske, David
+Pruitt, John
+Hagino, Jun-ichiro
+Levy, Margi
+Love, Steve
+Sayood, Khalid
+Powell, Gavin
+Vallath, Murali
+Harrington, Jan
+Wall, David
+Donahoo, Michael
+Boashash, Boualem
+Haletky, Edward
+de Champlain, Michel
+Lano, Kevin
+Grimer, Tony
+Pu, Ida
+Williams, Rob
+XYPRO Technology Corp
+Plaszczak, Pawel
+Beale, Jay
+Farrel, Adrian
+Monroe, Tim
+Syngress
+Vasseur, Jean-Philippe
+Currie, Wendy
+Syngress
+Hurley, Chris
+Parker, Tom
+Littlejohn Shinder, Debra
+Peiris, Chris
+Fugatt, Mark
+Russell, Ryan
+Franklin, Mark
+Reid, Fiach
+McCorry, Kieran
+Holtzblatt, Karen
+Laahs, Kevin
+Reinhard, Erik
+Monroe, Tim
+Giuseppini, Gabriele
+Foster, James
+Matsuno, K.
+VLDB
+VLDB
+Deckard, Jason
+Ben Natan, Ron
+Snedaker, Susan
+Snedaker, Susan
+Wilders, P.
+Jenssen, C.B.
+Hurley, Chris
+Syngress
+Cole, Eric
+Thornton, Frank
+Barber, B.
+Minoli, Daniel
+Sinha, S. M.
+Cole, Eric
+Honick, Ron
+Rash, Michael
+Farin, G.
+Rossi, Francesca
+Howard, Harry
+Joubert, Gerhard
+Bouchon-Meunier, B.
+Craft, Melissa
+Owad, Tom
+Bendell, Dan
+Piltzecker, Anthony
+Ruston, Chris
+Barber, B.
+Littlejohn Shinder, Debra
+Piccard, Paul
+Chetverushkin, Boris
+Redmond, Tony
+Mensah, Kuassi
+McCorry, Kieran
+Fisher, Michael
+Osborne, Mark
+St Denis, Tom
+Hay, David
+Hartmut Güting, Ralf
+Celko, Joe
+Gelphman, David
+Zheng, Pei
+Allen, David
+Barken, Lee
+Bowman, Kenneth
+Kurtz, Steven
+Celko, Joe
+Aiello, Ph.D., Roberto
+Daehne, Markus
+Adamatzky, Andrew
+Powell, Gavin
+Babbin, Jacob
+Potter, Bruce
+Shimonski, Robert
+James, Lance
+Stiefel, Barry
+Rogers, Russ
+Grandinetti, Lucio
+Lahti, Christian
+Snedaker, Susan
+Long, Johnny
+Sanchez, Elie
+Burnett, Mark
+Khan, Umer
+Foster, James
+Wyler, Neil
+Franceschetti, Giorgio
+Gerald L. Kovacich
+Mueller, Erik T.
+Sotomayor, Borja
+Longépé, Christophe
+Sachs, Marcus
+Muller, Al
+Caswell, Brian
+Faircloth, Jeremy
+Correia, Luis M.
+Spammer-X, Spammer-X
+Cameron, Rob
+Rogers, Russ
+Shein, Rob
+Ransome, PhD, CISM, CISSP, James
+Hurley, Chris
+Rittinghouse, PhD, CISM, John
+Walls, Colin
+Rittinghouse, PhD, CISM, John
+Rasmussen, Soren
+Celko, Joe
+Bouchon-Meunier, Bernadette
+Russell, Ryan
+Wotring, Brian
+Varghese, George
+Drusinsky, Doron
+Erbschloe, Michael
+Kehtarnavaz, Nasser
+Winter, Gabriel
+German, O.V.
+Robinson, Alan
+Porter, CISSP, CCNP, CCDA, CCS, Thomas
+Chaffin, Larry
+Kleiman, Dave
+Wang, Laung-Terng
+XYPRO Technology Corp
+Foster, James
+Schiano, P.
+Songhurst, D.J.
+Dssouli, R.
+Pickover, C.A.
+Rusling, James
+Fujisaki, H.
+Lin, C.A.
+Carmona, Rene
+Gough, Michael
+Craft, Melissa
+Leondes, Cornelius
+Warren, Joe
+Flandrin, Patrick
+Feiler, Jesse
+Loshin, David
+Goulekas, Karen
+Medioni, G.
+Cox, Earl
+Keyes, D.
+Zeevi, Yehoshua
+Lee, Weng Fook
+Cavalli, A.
+Kong, T.Y.
+Cappellini, V.
+Geller, J.
+Oja, E.
+Moonen, M.
+Moonen, M.
+Kanatani, K.
+Ecer, A.
+Hauser, J.
+Metakides, G.
+Mertzios, B.G.
+Droege, P.
+Graefe, V.
+Emerson, D.
+Read, Geoffrey F
+Gancarz, Mike
+Moore, Martin
+Bourne, Philip
+Guruge, Anura
+Miller, David
+Kenyon, Tony
+Kenyon, Tony
+Sharp, Duane
+Duffy, Michael D
+Leondes, Cornelius
+Pooley, Rob
+Guruge, Anura
+Mosher, Sue
+Wigodsky, Andrew
+Erbschloe, Michael
+Cochran, Jerry
+Wheeler, William
+Michael Gallo
+Goldenberg, Ruth
+Breakfield, Charles
+Fafrak, Scott
+Winston, Alan
+Bergstra, J.A.
+Futatsugi, K.
+de Ville, Barry
+Baldwin, Lawrence
+Fortier, Paul
+Peel, Jeffrey
+Lissoir, Alain
+Wisniewski, John
+Leondes, Cornelius
+VLDB
+Duato, Jose
+Melton, Jim
+Ramaswami, Rajiv
+Cox, Ingemar
+Rosson, Mary Beth
+Blinn, Jim
+Schneider, Philip
+Züllighoven, Heinz
+Dominus, Mark
+Mirel, Barbara
+Date, C.J.
+Fosner, Ron
+Chevance, René
+Hoos, Holger H.
+Ghallab, Malik
+Strassner, John
+Klette, Reinhard
+Andreas Zeller
+Link, Johannes
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Sloss, Andrew
+Snyder, Carolyn
+Harrington, Jan
+Dechter, Rina
+Syngress
+Baxter, Kathy
+Ling, Rich
+Aboelela, Emad
+Wall, David
+Spielman, Sue
+Franklin, Mark
+Morrow, Monique
+Westerman, Paul
+Syngress
+Syngress
+Syngress
+Davies, E. R.
+Brachman, Ronald
+Fogel, Gary
+Chakrabarti, Soumen
+Spielman, Sue
+Parent, Rick
+Eberhart, Russell
+Black, Sharon
+Dittrich, Klaus
+Syngress
+Shasha, Dennis
+Donahoo, Michael
+Ashenden, Peter
+Witten, Ian
+Harrington, Jan
+Wayner, Peter
+Daum, Berthold
+Demeyer, Serge
+Sherman, William R.
+Goldman, Ron
+Rigaux, Philippe
+Halpin, Terry
+Lieberman, Henry
+Melton, Jim
+Weikum, Gerhard
+Simon, Alan
+Pyle, Dorian
+Olson, Jack
+Bean, James
+McGovern, James
+Goldman, Ron
+Sikora, Michael
+Bean, James
+Barry, Douglas K.
+Smith, Jim
+Chisholm, Malcolm
+Halpin, Terry
+Zhao, Feng
+Bederson, Benjamin
+Ferrari, Mario
+Fogg, B.J.
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Melton, Jim
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Cabrera, Harold
+Syngress
+Syngress
+Puder, Arno
+Kumar, C Bala
+Schiller, Jochen
+Cromie, John
+Speed, Tim
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Rogers, David
+Harris, David
+Jeffay, Kevin
+Calvert, Kenneth
+Ashenden, Peter
+Gumley, Liam
+Farrel, Adrian
+McComb, Dave
+Kuniavsky, Mike
+Loshin, David
+Lesk, Michael
+Celko, Joe
+Farin, Gerald
+Brinck, Tom
+Fogel, David
+Corne, David
+Daum, Berthold
+Loshin, Pete
+Nadeau, Thomas
+Fowler, Susan
+Peterson, Matthew
+Wieringa, R.
+Syngress
+Lissoir, Alain
+Fisher, Joseph A.
+Watson, Ian
+Harris, Randy
+Carroll, John
+Loshin, Pete
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+De Clercq, Jan
+Jacob, Christian
+Wang, Zheng
+Syngress
+Syngress
+Syngress
+Poynton, Charles
+Martin, Worth
+De Micheli, Giovanni
+Speegle, Gregory
+Foster, Ian
+Vacca, John
+Brunner, Robert
+Ware, Colin
+Flynt, Clif
+Ercegovac, Miloš  D.
+Hofmann, Markus
+Braun, Peter
+Walter Ciciora
+Knasmüller, Markus
+Friedlein, Ashley
+Lacroix, Zoe
+Ceri, Stefano
+Johnson, Jeff
+Makofske, David
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Kumar, Anurag
+Britton, Carol
+Rittinghouse, PhD, CISM, John
+Aiken, Peter
+Franklin, Mark
+Syngress
+Syngress
+Syngress
+Syngress
+Munden, Richard
+Burnett, Mark
+Barclay, Kenneth
+Pioro, Michal
+Daugherty, Mike
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Syngress
+Metzger, Robert
+Syngress
+Carrington, Charles
+Zhu, Hong
+Hardy, Colin
+Syngress
+Syngress
+Syngress
+Leondes, Cornelius
+Helander, M.G.
+Wilkins, Mark
+Gould, David
+Gould, David
+McReynolds, Tom
+Leibson, Steve
+De Micheli, Giovanni
+Jerraya, Ahmed
+Jantsch, Axel
+Ebert, David
+Luebke, David
+Strothotte, Thomas
+Pharr, Matt
+D'Hollander, E.H.
+Dongarra, J.J.
+Shepherd, Gordon
+Rothschild, Lynn
+Teisseyre, Roman
+Kantha, Lakshmi
+Kantha, Lakshmi
+Curry, Judith
+Warneck, Peter
+Pielke, Roger
+Cotton, William
+Menke, William
+Douglas, Bruce
+Fu, Lee-Lueng
+Randall, David
+Philander, S.
+Arya, Paul
+Brown, Robert
+Gill, Adrian
+Apel, John
+Landsberg, Helmut
+Jacobson, Michael
+Bradley, Raymond
+Lee, William
+Hartmann, Dennis
+Alexander A. Kaufman
+Kaufman, Alex
+Kaufman, Alex
+Lay, Thorne
+Nebeker, Frederik
+Opdyke, Meil
+Ryan, Michael
+Salby, Murry
+Fleagle, Robert
+Wilks, Daniel
+McCalpin, James
+McElhinny, Michael
+Evans, Michael
+Bergaya, F.
+Huffman, Robert
+Liou, K. N.
+Lanzendorf, John
+Gueguen, Yves
+Arya, Paul
+Pearce, Robert
+Siedler, Gerold
+Hobbs, Peter
+Dessler, Andrew
+Evans, Brian
+Nappo, Carmen
+Lee, William
+Holton, James
+Aster, Richard C.
+Saltzman, Barry
+Lewis, John
+Harbaugh, J.W.
+Schutz, Bob
+Moellering, Harold
+Dykes, J.
+Peterson, M.P.
+Moellering, H.
+Rieke, H.H.
+Chilingarian, G.V.
+Trendall, A.F.
+Turner, P.
+van Golf-Racht, T.D.
+Velde, B.
+Voipio, A.
+Nihoul, J.C.J.
+Hunter, D.R.
+Nihoul, J.C.J.
+Pomerol, C.
+Kunzendorf, H.
+Kröner, A.
+Nihoul, J.C.J.
+Nihoul, J.C.J.
+Ramming, H.-G.
+Condie, K.C.
+Ferguson Wood, E.J.
+Fertl, W.H.
+Kanaori, Y.
+Laskowski, J.
+Odin, G.S.
+Boucot, A.J.
+Brookfield, M.E.
+Langeraar, W.
+Larsen, G.
+Fripiat, J.J.
+Geyer, R.A.
+Hekinian, R.
+Lyons, PhD, PE,, William C.
+Ramirez, W.
+Briggs, J.C.
+Doyle, L.J.
+Worsley, D.
+Martinsen, O.J.
+Lisitzin, E.
+Minoura, K.
+Schwarzacher, W.
+Silvia, M.T.
+Singer, A.
+Steemann Nielsen, E.
+Ichiye, T.
+Siever, R.
+Jerlov, N.G.
+Johns, B.
+Stephansson, Ove
+Tsvankin, I.
+Santurette, Patrick
+Sudo, T.
+Walter, M.R.
+Zhao, Jian
+Magara, K.
+Mahaney, W.C.
+Mamayev, O.I.
+Mel'nik, Y.P.
+Mózes, G.
+Nagy, B.
+Nihoul, J.C.J.
+Nihoul, J.C.J.
+Nihoul, J.C.J.
+Nihoul, J.C.J.
+Nihoul, J.C.J.
+Dehlinger, P.
+Parker, R. H.
+Lasserre, P.
+Dikkers, A.J.
+Donaldson, E.C.
+Duursma, E.K.
+Chapman, R.E.
+Martini, I.P.
+Condie, Kent C.
+Chilingarian, G.V.
+Jánossy, D.
+Nihoul, J.C.J.
+Baturin, G.N.
+Koestler, A.G.
+Kostianoy, A.G.
+van der Meer, J.J.M.
+Wang, Y.
+De Vivo, B.
+Over, Jeff
+Shanmugam, G.
+Kusky, T.M.
+de Groot, Pier
+Fytikas, M.
+Lehtinen, Martti
+Poletto, F.B.
+Serebryakov, V.A.
+Taylor, D.R.F.
+Indraratna, Professor Buddhima
+Briegel, U.
+Nikravesh, M.
+Winterwerp, J.C.
+Wandås, B.T.G.
+Wannamaker, P.E.
+Zhdanov, Michael
+Peng, S.
+Zhang, Lianyang
+Dunn, K.-J.
+Carcione, J.
+Zhang, Xing
+Taniguchi, M.
+Heusser, C.J.
+Zeebe, R.E.
+Alsharhan, A.S.
+Eriksson, P.G.
+Poulton, M.M.
+Flemming, N.C.
+Shikazono, N.
+Harrison, John
+Goni, G.J.
+Gutierrez Elorza, M.
+Al-Azab, M.
+Fennel, W.
+Garcia, C.
+Hallett, D.
+Danesh, Ali
+Kaufman, A.A.
+Lakhan, V.C.
+Reuter, M.A.
+Komatina, M.
+Buryakovsky, L.
+Winterwerp, J.C.
+Ulrych, T.J.
+Hill, R.J.
+Mitra, S.
+Caseldine, C.
+Mabesoone, J.M.
+Ehlers, J.
+Ehlers, J.
+May, V.J.
+Harrison, John
+Chen, J.
+Lui, A.T.Y.
+Zobin, Vyacheslav
+Mysen, B.
+Slawinski, M.A.
+Hein, J.R.
+Borja, A.
+Dahlin, H.
+Ehlers, J.
+Bourdet, Dominique
+Lionello, P.
+Adams, M.D.
+Dobran, Flavio
+De Vivo, B.
+Hutchison, C.S.
+Takano, K.
+Glasby, G.P.
+Somerton, W.H.
+Kjerfve, B.
+Rundqvist, D.V.
+Open University
+Trenhaile, A.S.
+Nelson, E.B.
+Donaldson, E.C.
+Robertson, J.O.
+Jamart, B.M.
+Weaver, C.E.
+Tan, W.Y.
+Da Prat, G.
+Naqvi, S.M.
+Baibakov, N.K.
+Massel, S.R.
+Brodzikowski, K.
+Charlier, R.H.
+Glynn, P.W.
+Rahman, S.S.
+Chilingarian, G.V.
+Fjær, E.
+F.T. Banner, M.B. Collins, K.S. Massie
+F.T. Banner, M.B. Collins, K.S. Massie
+Richard A. Geyer
+Richard A. Geyer
+O. Serra
+O. Serra
+A.P. Szilas
+Garrett, Donald
+Bouwman, A.F.
+Kutasov, I.M.
+van der Hilst, R.D.
+Selley, R.C.
+Mazzullo, S.J.
+Kanaori, Y.
+Finlayson-Pitts, Barbara
+Fertl, W.H.
+Chilingarian, G.V.
+McAleese, S.
+Goodwin, Alan
+Haitjema, H.
+Condie, K.C.
+Kulmala, M.
+Stephanson, O.
+Hartlén, J.
+Selley, Richard
+Singh, B.
+Taylor, D.R.F.
+Swain Jr., F.M.
+Zhang, C.
+Zimmerman, R.W.
+Donaldson, E.C.
+Hagoort, J.
+Chilingarian, G.V.
+Nihoul, J.C.J.
+Peaceman, D.W.
+Littmann, W.
+Ikeya, N.
+Odin, G.S.
+Chilingarian, G.V.
+Donaldson, E.C.
+Landry, M.R.
+Mader, D.
+Melvin, J.L.
+Dominguez, G.C.
+Chu, P.C.
+Dera, J.
+Zubakov, V.A.
+Agterberg, F.P.
+Zemel, B.
+Zhang, Dongxiao
+Yin Hongfu
+Wang, Pao
+Halpern, D.
+Uman, Martin
+Jacobs, John
+Hewitt, C.
+Ofstad, K.
+Healy, T.
+McAnally, W.H.
+Hansell, Dennis
+Garrett, Donald
+Demicco, Robert
+Mann, P.
+Naftz, David
+Okada, H.
+Sung Kwun Chough
+Hale, M.
+Wendebourg, J.
+Bobok, E.
+Teramoto, T.
+Naidu, P.S.
+Premuzic, E.T.
+Steel, R.J.
+Nairn, A.E.M.
+Pluet, J.
+Schwarzacher, W.
+Verweij, J.M.
+Donaldson, E.C.
+Pusch, R.
+Behrens, H.W.A.
+Condie, K.C.
+Mohamed, A.M.O.
+Embleton, C.
+Hanslien, S.
+Doré, A.G.
+Barker, C.
+Dorn, R.I.
+Panizza, M.
+Chilingarian, G.V.
+Camuffo, D.
+Møller-Pedersen, P.
+Haq, B.U.
+Sen, M.K.
+Sawaragi, T.
+Gillen, C.
+Henderson-Sellers, Ann
+Economides, M.J.
+Montanari, A.
+Lyons, PhD, PE,, William C.
+Lyons, PhD, PE,, William C.
+Open University
+DIPPER, FRANCES
+Markgraf, Vera
+Jenne, Everett
+Lisle, Richard J
+Boccotti, P.
+Fanchi, J.R.
+Schulze, Ernst-Detlef
+Massacci, P.
+Flemming, B.W.
+Loudon, T.V.
+Petruk, W.
+Open University
+Menzies, John
+Lalli, Carol
+Open University
+Olsen, K.H.
+Briggs, J.C.
+Jahn, Frank
+John L. Wray
+A. Hallam
+F.M. Swain
+A. Gene Collins
+A.P. Szilas
+Bruce C. Heezen
+Ralph E. Grim, Necip Guven
+Gunner Larsen, George V. Chilingar
+M.M. Mortland, V.C. Farmer
+A. Nissenbaum
+Toshio Sudo, Susumu Shimoda, Haruo Yotsumoto, Saburo Aita
+C.A. Nittrouer
+John R.L. Allen
+John R.L. Allen
+B. Greenwood, R.A. Davis
+L.M. Fomin
+John L. Mero
+E.J. Ferguson Wood
+G. Neumann
+N.G. Jerlov
+Victor Vacquier
+William J. Wallace
+G.P. Glasby
+V.M. Kamenkovich
+Jerald W. Caruthers
+Jaques C.J. Nihoul
+Paul H. LeBlond, Lawrence A. Mysak
+Chris C. Von Der Borch
+Jacques C.J. Nihoul
+C.E.B. Conybeare
+G.V. Chilingarian, T.F. Yen
+L.P. Dake
+A.P. Szilas
+G.V. Chilingarian, J.O. Robertson, S. Kumar
+B.F. Windley, S.M. Naqvi
+L.M.J.U. van Straaten
+G.C. Amstutz
+A.H. Bouma, A. Brouwer
+F.G. Tickell
+William A. Berggren, John A. van Couvering
+L.J. Salop
+Stanislaw Dzulynski, E.K. Walton
+James C. Ingle
+L. Van Der Plas
+Gunnar Larsen, George V. Chilingar
+George V. Chilingar, Harold J. Bissell, Rhodes W. Fairbridge
+George V. Chilingar, Harold J. Bissell, Rhodes W. Fairbridge
+P.McL. D. Duff, A. Hallam, E.K. Walton
+C.C. Reeves
+K.W. Glennie
+A.A. Manten
+Robin G.C. Bathurst
+Charles E. Weaver, Lin D. Pollard
+M. Dane Picard, Lee R. High
+B. Velde
+Charles E. Weaver, Kevin C. Beck
+Savazzi, E.
+Chamley, H.
+Gillespie, A.R.
+Malanotte-Rizzoli, P.
+De Paor, D.G.
+Morse, J.W.
+Emery, W.J.
+Perillo, Gerardo
+Moore, C.H.
+Moore, Clyde H.
+Cawthorn, R.G.
+Roll
+Liu
+Budyko
+Stern
+Dennis
+Liou
+Miller
+Budyko
+Lanzano
+McElhinny
+Lewis
+Sagitov
+Warneck
+Butcher
+Kondratyev
+Newton
+Kent Condie
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Marshall, John
+Chamberlain, Joseph
+Houze, Jr., Robert
+Eaton, P.A.
+Hoekstra, P.
+Levshin, A.L.
+Kaufman, Alex
+Yen, T.F.
+Vacher, Leonard
+Kaufman, A.A.
+Miller, David
+Dake, L.P.
+MERRILL
+El Bassam, N.
+Tillman, David
+Li, Chun - Zhu
+Sims, Ralph
+Rogner, Matthias
+Kandiyoti, Rafael
+Trinnaman, Judy
+Finon, Dominique
+Lillington, John
+Miyake, J.
+Williams, L.O.
+Thomas, David
+Gale, John
+Fusaro, Peter C.
+El-Mahallawy, F
+Arentsen, M.
+Leggio, Karyl
+Wilson, Malcolm
+Sioshansi, Fereidoon
+Midttun, A.
+Wang, H.H.
+Sayigh, A. A. M.
+Sher, Eran
+Minh, N.Q.
+Neville, R.C.
+Berkowitz, Norbert
+Midttun, A.
+Klass, Donald
+Silveira, Dr. Semida
+Barbir, Frano
+Martin, J
+Li, Y
+Yu, W
+Radaj, D
+Lucas, W
+Keats, D
+Schultz, H
+Hicks, J
+Street, J A
+Dawes, C T
+Zairi, M
+Boniszewski, T
+Gurney, T R
+Houldcroft, P T
+Bailey, N
+Lucas, W
+Maddox, S J
+Croft, D
+Muncaster, P W
+Walker, D J
+Rouette, H-K
+Niemi, E.
+Kritzinger, D E
+Lancaster, J. F.
+Norrish, J
+Prashad, H.
+Wilson, J
+Hearle, J. W. S.
+Ziebs, J
+Thompson, S
+Weman, K
+Gregory, E N
+
+Reid, A
+Li, Y
+Bijen, J
+Lord, P R
+Nieuwenhuis, P
+Boekholt, R
+Niemi, E.
+Elliott, B J
+
+Gray, T G F
+Fung, W
+Horne, C E
+Halmshaw, R.
+Hobbacher, A
+Davey, V S
+Tao, X M
+Cavaco-Paulo, A
+Mathers, G
+Horrocks, A R
+Zhao, X-L
+Hicks, J
+Hollaway, L C
+
+Widgery, D
+Bailey, N
+Boekholt, R
+Spencer, D J
+Kitzinger, U W
+Nixon, J
+Saville, B P
+Nakajima, T.
+Lancaster, J. F.
+Renton, J D
+Renton, J D
+Wu, H
+Shneydor, N A
+Slater, K
+Bozic, S M
+Whitehouse, J E
+Böhni, H
+Ujiie, H
+Wang, Y.
+Calladine, C. R.
+Luo, D
+Spillers, W R
+Blackledge, J M
+Blackledge, J M
+Ross, C T F
+Chapman, M J
+Davidson, F P
+Ross, C T F
+Bedenik, B
+Zedan, H. S. M.
+Ross, C T F
+Burghes, D N
+Campbell, S A
+Grosicki, Z
+Fan, J
+Elliott, B J
+Feng, Z
+Radaj, D
+Lord, P R
+Ross, C T F
+Ahmed, N
+Hicks, J
+Yamagata, H
+Fan, Q
+Blunt, J
+Li, Y
+Westbroek, P
+Weman, K
+Shanmugam, N E
+Houldcroft, P T
+Schindler, W D
+Xin, J
+Gurney, T R
+Fu, G
+Jiluan, P
+Lu, G
+Houldcroft, P T
+Hicks, John
+Erickson, Paul
+Kapitaniak, Tomasz
+Ribak, Joseph
+Morrison, Robert
+Lubrecht, A
+Perez, Reinaldo
+Perez, Reinaldo
+Perez, Reinaldo
+Elarabi, M.E.
+Boyd, Robert
+Povey, Malcolm
+Rayner, R.
+Godoy, L.A.
+Bjorhovde, R.
+Datta, Biswa
+Omidvar, Omid
+Sanders, Roy
+Tweeddale, Mark
+Rock, Brian
+Daly, Steven
+Goodfellow, Howard
+Bishop, Owen
+Holdsworth, Brian
+Zhang, Xiangju
+Pinchuk
+Moore, Ron
+Prashad, H.
+Dowson, Duncan
+Zhang, Si-wei
+Stachowiak, Gwidon
+Pawlak, Zenon
+House, David
+Frene, J.
+Lansdown, A.R.
+Dowson, D.
+Dowson, D.
+Priest, M.
+Dalmaz, G.
+Flamand, L.
+Venner, C.H.
+Holmberg, K.
+MCGEORGE, H D
+Barrass, Bryan
+Ottosen, Niels
+Doddannavar, Ravi
+Breeze, Paul
+Bensky, Alan
+Reynders, Deon
+Zienkiewicz, O. C.
+Hewitson, Leslie
+Bottrill, Geoffrey
+Altmann, Wolfgang
+Lappa, Marcello
+Bellanger, Gilbert
+Barker, Mike
+Brown, Mark
+Sörnmo, Leif
+Hope, Roger
+Analog Devices Inc., Engineeri
+Keith Jack
+Baker, Bonnie
+Taylor, C.
+Dalmaz, G.
+Mobley, R. Keith
+Yanda, Richard
+Andrews, Jason
+Harrison, Linden T.
+Thompson, Marc
+Vallero, Daniel
+Marghitu, Dan
+den Boer, Willem
+Dag Stranneby
+Takano, Masaharu
+Hollaway, L.C.
+Yeomans, Stephen
+Kister, Timothy C.
+Bao, Minhang
+Hancock, Greg
+Gossner, Harald
+Williams, J
+Bai, Yong
+Brooke, John
+Ochi, Michel
+Dhir, Amit
+Oshana, Robert
+Poole, Ian
+Stachowiak, Gwidon
+Bai, Yong
+Zukas, Jonas
+Marsh, E
+Agardy, Franklin
+Kurtz, Steven
+Paidoussis, Michael
+Wilson, Jon
+Macdonald, David
+Wright, Edwin
+Greeff, Gerhard
+Macdonald, David
+Kang, Suk-Joong
+De Kock, Jan
+Tanaka, Mana
+Chakrabarti, Subrata
+Kolowrocki, Krzysztof
+Gumerov, Nail
+Bertotti, Giorgio
+Lipovski, G.
+T. H. G. Megson
+Cebeci, Tuncer
+RAO, S S
+Carl R. Branan
+Oehlers, Deric
+Wescott, Tim
+Backman, Dr. Bjorn
+Gunasekaran, A.
+Moore, D.R.
+Zingoni, A.
+Hesselgreaves, J.E.
+Bovik, Alan
+Menn, Naftaly
+Sencar, Husrev
+Williams, Tim
+Polmear, Ian
+Vargel, Christian
+Li, Hua
+Cognard, Phillipe
+Hinton, M.
+Tochihara, Yutaka
+Smith, Ricky
+Rodi, Wolfgang
+Blazek, Jiri
+Hewlett, Peter
+Mark, James
+Bhagat, Phiroz
+Wolf, John
+Chanson, Hubert
+ASME Shale Shaker Committee
+Kao, Kwan Chi
+Noergaard, Tammy
+Edwards, Lewin
+Ashby, Robert
+Dunn, Stanley
+Olexa, Ron
+Luecke, Jerry
+Qatu, Mohamad
+Bolton, W.
+Kehtarnavaz, Nasser
+Nicholas, Theodore
+Katz, David
+David J. Smith
+Voyiadjis, George
+Konstanty, Janusz
+Momber, Andreas
+Guinot, V.
+Grady, Jeffrey
+Darling, Toby
+Carpinteri, Andrea
+Henzold, Georg
+Crowder, Richard
+Berger, Arnold
+Jha, A.R.
+Hlavacek, Ivan
+Sutherland, Ken
+Hoyle, David
+Remy, L.
+Hyder, Kamal
+Chandra, Praphul
+Cofer, RC
+Bose, Bimal
+Zhu, Y.
+Yakov Ben-Haim
+Bolton, W.
+Gupta, S.C.
+SUN KEPING
+Kulasiri, Don
+Katsikadelis, J.T.
+Gilb, Tom
+E. C. Tupper
+Shilkrut, D.
+Campbell Jr, Flake
+Rosato, Donald
+Mansour, A.E
+Henini, M.
+Momber, A.
+Francois, D.
+Taghizadegan, Salman
+Bolonkin, Alexander
+Dobkin, Daniel
+Beebe, Raymond
+Dulikravich, G.S.
+Szweda, R.
+Wu, Keng
+Curtis, Keith E.
+Cory, William
+Klyatis, Lev
+Miron, Douglas
+Eady, Fred
+Durkee, John
+Liu, Mingliang (Michael)
+Wellings, Donald
+Jensen, J.J
+Wu, You-Sheng
+Rodi, W.
+Baker, A.A.
+Pal, Bishnu
+Ozcelik, S.
+Ratner, L.W.
+Szweda, R.
+Woodard & Curran, Inc.
+Xiong, Ziyou
+Schultz, Tanja
+Forsthoffer, William
+Kinney, Steven
+Zeng, Wenjun
+Stout, Ken
+Zeman, Josef
+Akin, J.
+Sueker, Keith
+Roy, Gabriel
+Bazant, Zdenek
+Axisa, François
+Capus, Joseph
+Yamamoto, Shigeru
+Colombini, Daniela
+Martel, Bernard
+Regtien, Paul
+Khalil, W.
+Najim, Kaddour
+Dudas, Iles
+Blunt, Liam
+Asundi, A.
+Chan, S.L.
+Khoei, Amir
+Messler, Robert
+Shen, Z Y
+Cognard, Phillipe
+Reay, David
+John Crisp
+Srinagesh, K
+Lenahan, Tom
+Griffiths, Brian
+Akan, A. Osman
+Anson, M.
+Theodoridis, Sergios
+Griffiths, Brian
+Cecelja, Franjo
+Axisa, François
+Whitehouse, David
+Motro, Reno
+Simitses, George
+Abbott, Doug
+Wang, J.
+Edwards, Lewin
+Fette, Bruce
+Smith, Jack
+Ibrahim, Dogan
+Ramsden, Edward
+Jung, Walt
+Green, Paul
+Luo, Fang Lin
+Zum Gahr, K.-H.
+Gerard Barbottin, Andre Vapaille
+Glaeser, William
+Jacobson, B.O.
+Kajdas, C.
+Yamaguchi, Y.
+Godet, M.
+Barber, A.
+Cheng, F.Y.
+Bassani, R.
+Kelly, Anthony
+Nash, W.A.
+Bates, Martin
+Lasky, Ronald
+Mital, A.
+Starr, T.
+Ghosh, Bijoy
+Marquis, G.
+Yu, Francis
+Marghitu, Dan
+Consortini, Anna
+Kino, Gordon
+Duarte, Frank
+Kamen, Edward
+Gupta, Madan
+Latham, Rod
+Peyret, Roger
+Ladeveze, P.
+Usami, T.
+Chen, Wai
+Fuller, Christopher
+Rao, Sadasiva
+Leondes, Cornelius
+Leondes, Cornelius
+Leondes, Cornelius
+Leondes, Cornelius
+Leondes, Cornelius
+Leondes, Cornelius
+Leondes, Cornelius
+Leondes, Cornelius
+Leondes, Cornelius
+Leondes, Cornelius
+Iwansson, K.
+Dyro, Joseph
+Kapon, Eli
+Lerche, Ian
+Leondes, Cornelius
+Chan, Siu-Lai
+Chan, Siu-Lai
+Kashyap, Raman
+Broberg, K.
+Thompson, Stephen
+Ohring, Milton
+Chan, S.L.
+Sandler, Ben
+Miano, Giovanni
+Trzynadlowski, Andrzej
+Carpinteri, A.
+Laurence, D.
+Young, I.R.
+Paidoussis, Michael
+Ballantine, Jr., D.
+Liew, K.M.
+Dow, Julian
+Ishii, T.
+Iliuc, I.
+Onshage, A.C.
+Predeleanu, M.
+Cheng, F.Y.
+Meyer, Rudolph
+Anderson, Neal
+Bull, David
+Pollock, D.
+Tanaka, Masataka
+Tinder, Richard
+Wanhammar, Lars
+Unger, David
+Levialdi, Stefano
+Chang, Shi-Kuo
+Hazeltine, Barrett
+Kingston, Robert
+Jones, M.H.
+Bartenev, G.M.
+Rymuza, Z.
+Georges, J.M.
+Nayfeh, A.H.
+Dorinson, A.
+Berthe, D.
+Berthe, D.
+Dowson, D.
+Berthe, D.
+Dumbleton, J.H.
+Sayood, Khalid
+Ellis, George
+Kaminow, Ivan
+Kaminow, Ivan
+Wool, Richard
+Gordon, Joseph
+Tohyama, Mikio
+Becker, Philippe
+Cederbaum, G.
+Hariharan, P.
+Wang, C.M.
+Hansen, Charles
+Ohayon, Roger
+Moseley, P.
+Grimnes, Sverre
+Marchand-Maillet, Stéphane
+Glassman, Irvin
+El-Halwagi, Mahmoud M.
+Wickerhauser, Mladen
+Chaudhry, Amanat
+Ben-Dor, Gabi
+Kivshar, Yuri
+Elliott, Stephen
+Duarte, Frank
+Omidvar, Omid
+Medwin, Herman
+Gibson, Jerry
+Williams, Earl
+Wang, Shan
+Lipovski, G.
+Lipovski, G.
+Leondes, Cornelius
+Bock, Peter
+Austerlitz, Howard
+Foley, Henry
+DeCusatis, Casimer
+Furlani, Edward
+Colaneri, Patrizio
+Bossavit, Alain
+Schroeder, Daniel
+Ready, John
+Akansu, Ali
+Kapon, Eli
+Fiorillo, Fausto
+Yu, Francis
+Gutierrez-D, Edmundo
+Hassan, M.F.
+Dutta, Achyut
+Dutta, Achyut
+Pavan, A
+Fuentes, M.
+Fujiwara, Masahiko
+Muraka, Shyam
+Mallinson, John
+Chesnoy, Jose
+LeMaitre, Jean
+Mollenauer, Linn
+Sekkat, Zouheir
+Boyd, Donald
+Korper, Steffano
+Bertotti, Giorgio
+Salon, Sheppard
+Kuperman, Vadim
+Mayergoyz, Isaak
+Haruyama, T.
+Stepina, V.
+Stachowiak, G.W.
+Lutes, Loren
+Taylor, C.M.
+de Jager, E.M.
+Andreasen, J.H.
+Dowson, D.
+Allen, D.H.
+Fukuda, T.
+Marquis, G.
+Macha, E.
+Krajcinovic, D.
+Bao, Min-hang
+Woody Ju, Jiann-Wen
+Hollnagel, E.
+Dalmaz, G.
+Shpenkov, G.P.
+Selvadurai, A.P.S.
+Raouf, A.
+Yamasaki, H.
+Kamrani, A.K.
+Kupriyanov, L.Yu
+Cheng, F.Y.
+Dalmaz, G.
+Save, M.A.
+Dowson, D.
+Predeleanu, M.
+Taylor, C.M.
+Hoole, S.R.H.
+Campbell, John
+Butler, Don
+Johnson, Jeffrey
+McBrearty, Daniel
+Elimelech, M.
+Martin, William
+Wright, Paul K.
+Chhabra, R. P.
+Heath, Steve
+Crisp, John
+Ibrahim, Dogan
+Cirstea, Marcian
+Poole, Ian
+Self, Douglas
+JUDD, MIKE
+McCormick, Kate
+Read, Geoffrey F
+RIBEIRO, ROBERT
+Taylor, D A
+DAVIES, T.
+Hindmarsh, John
+Bloch, Heinz P.
+Cheremisinoff, Nicholas P
+Martin, William
+Lippitt, John
+Roughton, James
+Smith, Anthony M.
+Hickman, Ian
+Kularatna, Nihal
+Holland, Ph.D., Per
+Fink, Johannes
+Burns, Roland
+Bloch, Heinz P.
+Bloch, Heinz P.
+Bloch, Heinz P.
+Wahren, Uno
+Carr, Joseph
+Fischer-Cripps, Tony
+Brice, Richard
+Chiba, Akira
+Scheiber, Stephen
+Van Valkenburg, Mac E.
+Bolton, W.
+Tupper, E. C.
+VanDoren, Vance
+Cheremisinoff, Nicholas P
+Maxfield, Clive
+Sam Mannan
+Florczak, Clifford
+Smith, Ricky
+RONALD KITCHEN
+Hickman, Ian
+Nokes, L.
+Russell, J.
+Hearn, Grant
+Al-Mualla, Mohammed
+Jakus, Karl
+Baker, Mark
+Holland, John
+Lempriere, Brian
+Terashima, Nobuyoshi
+Alcock, C. B.
+Hu, Jack
+Sinclair, Ian
+Sinclair, Ian
+Joseph Carr
+Brice, Richard
+Leven, Andrew
+da Silva, Ed
+Tarassenko, Lionel
+Ross, Carl T. F.
+Smillie, Grahame
+Beddoes, J.
+Buchanan, William
+Dummer, G.
+Brook, G B
+Beards, C.
+Lewis, R. I.
+Crowe, J.
+Harrison, H.
+Beards, C.
+James, Kevin
+Mayergoyz, Isaak
+Pham, Duc
+Pasqualetti, Martin
+Maxfield, Clive
+Twort, Alan C.
+Miller, TJE
+Luttgens, Günter
+Lee, R. R.
+Watkinson, John
+Parr, E. A.
+Kolawole, Michael
+Buchanan, William
+Cather, Harry
+Attenborough, Mary
+Kularatna, Nihal
+Chiles, V.
+Powell, Ray
+Vincent, C.
+Gros, Xavier
+STRAUSS, RUDOLF
+An, Pei
+Gottlieb, Irving
+Gosling, William
+Hickman, Ian
+Afshar, Amir
+Lohbeck, Dave
+Nakayama, Yasuki
+Yun, Liang
+Hodges, Peter
+Winterbone, D.
+Fewson, D.
+Crittenden, Barry
+McCarthy, Dennis
+Dhameja, Sandeep
+Pennock, James
+Yaws, Carl L.
+Cheremisinoff, Nicholas P
+Bloch, Heinz P.
+Ibbotson, Lemuel
+Morton, John
+Ball, Stuart
+Goldberg, Lee H
+Hood, John Linsley
+Willmott, Peter
+Crisp, John
+Crompton, T R
+Carr, Joseph
+Rawlins, Clay
+Matthews, Cliff
+Horvath, Laszlo
+Gates Energy Products
+Williams, Jim
+Schroeder, Chris
+Imdad- Haque, Faisal
+Hellebuyck, Chuck
+Cevoli, Paul
+Broesch, James D.
+Goldberg, Bar-Giora
+Arnold, Ken
+VanSickle, Ted
+Santini, Simone
+Agrawal, Govind
+Hall, Charles
+Woodyard, Doug
+Mobley, R. Keith
+Mobley, R. Keith
+Ashby, Michael
+Knoring, Lev
+Flanigan, Orin
+Page, John S.
+Dhillon, Ph.D., B.S.
+Varteresian, Jon
+Stefanek, George L
+DeMuth, Brian
+Mack, Raymond
+Samuel, Andrew
+Brown, John
+Barry Wills
+Kashchiev, Dimo
+Fripp, Archibald
+Brown, Royce N.
+Mobley, R. Keith
+Weiner, Ruth
+Mackay, Steve
+Lai, Edmund
+Clarke, Gordon
+Bailey, David
+Strauss, Cobus
+Bailey, David
+Plonus, Martin
+Jahne, Bernd
+Joseph Carr
+Pope, J. Edward
+Rajhans, Gyan
+Cato, William W.
+Walker, N. Edward
+Fraser, M.D., T. M.
+Mobley, R. Keith
+of Drilling Engineers, American Assoc.
+Lataille, Jane
+Cheremisinoff, Nicholas P
+Mobley, R. Keith
+Duffey, Romney
+Reznik, Leon
+Berk, Joseph
+Carr, Joseph
+Mobley, R. Keith
+Ramirez, W.
+Maxfield, Clive
+Ibrahim, Ahmad
+Ganssle, Jack
+Edwards, Lewin
+Analog Devices Inc., Engineeri
+Meyer, Andreas
+Mullin, J W
+King, R. Peter
+Phillip Carson
+Gibilaro, L.G.
+Fourikis, Nicholas
+Jenkinson, Lloyd R.
+Gosling, William
+Bishop, Owen
+Kervill, Gregg
+Peter Childs
+Harrison, Donald M.
+DeCoursey, William
+Nagy, Chris
+Porter, Alex
+Insam, Edward
+Ibrahim, K. F.
+Calcutt, David
+Round, G.F.
+Reimpell, Jornsen
+Farrashkhalvat, M
+Bramwell, A. R. S.
+Booker, J. D.
+Brown, Marty
+Gresh, Theodore
+Agrawal, KC
+Crane, F A A
+Lenk, John
+Fu, Zhi-Fang
+Childs, Peter
+Morris, Alan S
+Howe, David
+Culley, S.
+Halevi, Gideon
+Fenton, John
+Ganssle, Jack
+Eastman, C.
+Peirce, J. Jeffrey
+Mackay, Steve
+Park, John
+Park, John
+Macdonald, Dave
+Bailey, David
+Reynders, Deon
+Barnes, Malcolm
+Schroeder, Chris
+Terrell, David
+Carr, Joseph
+Mallat, Stephane
+Fahy, Frank
+Kazmierkowski, Marian
+Sicuranza, Giovanni
+Pique, Alberto
+Dulikravich, G.S.
+Herrick, Clyde
+Schroeder, Chris
+Dorf, Richard
+Scallan, Peter
+Jones, Alan
+Carr, Joe
+Bertram, Volker
+Heyman, Joseph S.
+Elliott, Barry
+Meddins, Robert
+Wilson, Graham
+Acha, Enrique
+Gentle, Richard
+Annacchino, Marc
+Shaw, Milton C.
+Cloud, Phillip A.
+Cheremisinoff, Nicholas P.
+Gee, Shirley J.
+Davies, Geoffrey
+Swift, K G
+Crecraft, David
+Newman, John
+Tricker, Ray
+Fox, Huw
+Tricker, Ray
+Moreton, Peter
+Gottlieb, Irving
+Braithwaite, Chris
+Smith, Peter
+Clayton, G B
+Dye, Norman
+Feng, Gang
+Poli, Corrado
+Kalani, Ghodrat
+Lamprecht, James
+Schmitt, Ron
+Antony, Jiju
+Chanson, Hubert
+Hirst, Nigel
+Ellis, Juanita
+Ron Mancini
+Lee, Yung-Li
+Frontini, Gian
+Headley, Clifford
+Fanchi, PhD, John R.
+Ball, Stuart
+Winder, Steve
+Khilyuk Ph.D., Leonid F.
+Moniz, Bert
+Dowla, Farid
+Arora, Jasbir
+Hahn, Brian
+Eckhoff, Rolf
+Lea, James
+Cloud, Phillip A.
+Bloch, Heinz P.
+Bloch, Heinz P.
+Moura, Luis
+Liu, G.R.
+Holland, F.
+Cheremisinoff, Nicholas P.
+Byrappa, K.
+Ellis, George
+Anderson, Duwayne
+Edwards, A
+Stuart Ball
+Okamoto, Katsunari
+O 'Hara, Martin
+Hood, John Linsley
+DeCusatis, Casimer
+Helbert, John N.
+Bradstreet, Jeffrey W.
+Cheremisinoff, Nicholas P.
+Noyes, Robert
+McDaniel, Terry W.
+Greenhouse, Hal
+Meyer-Baese, Anke
+Williams, Tim
+Parr, Andrew
+Svarovsky, Ladislav
+Garside, John
+Silyn-Roberts, Heather
+Shanefield, Daniel J.
+Talty, John J.
+Campbell, Bruce
+Kletz, Trevor
+Licari, James J.
+Ament, Kurt
+DeCusatis, Casimer
+Ahmad, Zaki
+Horst Czichos
+Donald H. Buckley
+Pecht, Michael
+Licari, James J.
+Nolan, Dennis P.
+Moss, Dennis
+Korvink, Jan
+Miller, Bruce
+Sadd, Martin
+Ion, John
+Bishop, Owen
+Duncan, Ben
+Cheremisinoff, Nicholas P.
+Lacomme, Philippe
+Thomas, Philip J
+Brown, John
+Hickman, Ian
+Robinson, John
+Holloway, Paul H.
+Govil, Manish
+Mandyam, Giridhar
+Pearton, Stephen J.
+Cheremisinoff, Paul N.
+Baldwin, David G.
+Bolmen, Richard A.
+Ament, Kurt
+Cheremisinoff, Nicholas P.
+Noyes, Robert
+McPherson, Edwin M.
+Sorensen (Sorensen), Bent
+Mills, Nigel
+Crawford, R .J.
+Rosato, D.V.
+Rosato, Donald
+Singh, Rajindar
+Bathe, K.J
+Bayliss, Colin
+Patnaik, Surya
+Asthana, Rajiv
+Farshad, Mehdi
+Escoe, Keith
+Bachus, L.
+Ahmed, PhD, PE, Tarek
+Chin,  PhD, Wilson C.
+Markvart, Tom
+Ravi-Chandar, K.
+Yang, Bingen
+Bai, Yong
+Guo, PhD, Boyun
+Petrangeli, Gianni
+McEvoy, Augustin
+Singhal, Subhash
+Sperling, Daniel
+Messler, Robert
+Semmlow, John
+Szabo, Thomas
+Brezinski, Mark E.
+Bankman, Isaac
+Perez, Reinaldo
+Shiels, Stan
+Watson, D.G.M.
+Welch, K.
+Purchas, D.
+Kuffel, John
+Vlacic, Ljubo
+Brown, Jason
+Harrison, Matthew
+Blundell, Michael
+Pacejka, Hans
+Garrett, T.  K.
+Matthews, Cliff
+Muhlbauer, W. Kent
+Roy A. Parisher
+Tarek Ahmed
+JOHN R FANCHI
+Sorensen (Sørensen), Bent
+Brydson, J A
+Raymond Murray
+Warne, D.F.
+Laughton, M. A.
+T.H.Y. TEBBUTT
+Mitra, Urbashi
+Engel, P.A.
+Abou-Kassem, J.H.
+Cheremisinoff, Nicholas
+Cheremisinoff, Nicholas
+Chilingar, George V.
+Eckhoff, Rolf
+Nelik, Lev
+Whitticks, Edward
+Sethuramiah, A.
+Organ, A J
+Tolley, R
+White, R R
+Sajjadi, S G
+Martin, K
+Scorer, R R
+Wilson, W S
+McClintock, H
+Hayes, M H B
+Buckingham, S
+Ghabbour, E A
+Ghabbour, E A
+Westlake, K
+Pradier, J P
+Boon, J D
+Richardson, M. L.
+Coleman, David
+Naiman, Robert
+Johnson, Edward
+Schmitt, Russell
+Whitford, Walter
+Benke, Arthur
+Hillel, Daniel
+van Mansvelt, J.D.
+Follett, R.F.
+Rajeshwar, Krishnan
+Murphy, Joseph
+Woerdman, E.
+Riggs, H.C.
+Zavoianu, I.
+Jorgensen, S.E.
+Negulescu, M.
+Meadows, M.E.
+Johnsen, I.
+Evans, L.V.
+Folmer, H.
+Rajaratnam, N.
+Fried, J.J.
+Clarke, D.
+Caroli, S.
+Balek, J.
+Trudinger, P.A.
+Fishbein, L.
+van Heemstra-Lequin, E.A.H.
+Benarie, M.M.
+Graf, W.H.
+Hálek, V.
+French, R.H.
+Cena, K.
+Meszaros, E.
+Stephenson, D.J.
+Kudo, A.
+Stephenson, D.J.
+Kovács, G.
+Ojovan, M. I.
+Mariño, M.A.
+El-Shaarawi, A.H.
+Everett, L.G.
+Doble, Mukesh
+El-Shaarawi, A.H.
+Jermar, M.K.
+Annandale, G.W.
+Balek, J.
+Balek, J.
+Szefer, P.
+Keith-Roach, M.J.
+Povinec, P.
+Vallero, Daniel
+Izrael, Y.A.
+Rao, S.R.
+Jorgensen, S.E.
+Wong, M.
+Jorgensen, S.E.
+Neff, J.M.
+Ornitz†, B.
+Costanza, R.
+Beck, M.B.
+Matsuo, T.
+Wood, W.W.
+Livingston, H.D.
+Austin, J.
+Bytnerowicz, A.
+Bajpai, Pratima
+Twardowska, I.
+Roehl, K.E.
+Tsang, C-F.
+McLaughlin, J.P.
+Markert, B.A.
+Niaounakis, M.
+Scott, E.M.
+Carroll, J.
+Jain, Sharad
+Chapman, N.
+Karnosky, D.F.
+Chappell, W.R.
+Guo, Rongxing
+Kroon, M.
+Blažej, A.
+Pearson, F.J.
+Stephenson, D.J.
+Husain, T.
+Wilkening, M.
+Schreier, H.
+Becker, C.D.
+Vincent, J.H.
+M.A. Celia, L.A. Ferrand, C.A. Brebbia, W.G. Gray, G.F. Pinder
+M.A. Celia, L.A. Ferrand, C.A. Brebbia, W.G. Gray, G.F. Pinder
+Scholz, M.
+Tay, Joo-Hwa
+Bachmann, T.M.
+Chandler, A.J.
+Bruggeman, G.A.
+Heij, G.J.
+Schneider, T.
+Dragt, A.J.
+Halling-Sørensen, B.
+Chappell, W.R.
+Berkman, Paul
+Lee, S.D.
+Schneider, T.
+Marini-Bettòlo, G.B.
+Tsunoda, H.
+Kolb Meyers, V.
+Matolcsy, G.
+Nishimura, H.
+Stephenson, D.J.
+Votruba, L.
+Clarke, D.
+Votruba, L.
+van Heemstra-Lequin, E.A.H.
+Pawlowski, L.
+Verdier, A.J.
+Alaerts, G.
+Pawlowski, L.
+Custodio, E.
+Peterson, M.S.
+Ramamoorthy, S.
+Bailey, Ronald
+Popek, E.
+Woolley, G.R.
+Fassina, V.
+Markert, B.
+Artiola, Janick
+Rosen, C.
+Erickson, Paul
+Heasman, L.
+Záruba, J.
+Hipel, K.W.
+Aalbers, Th.G.
+Richards, I.G.
+Vernet, J.-P.
+de Groot, W.T.
+Isaac, J.
+Zwerver, S.
+Kelly, W.E.
+Souvorov, A.V.
+Hamilton, R.S.
+Severa, J.
+Schneider, T.
+Vigneron, S.
+Dahlgaard, H.
+Senden, G.J.
+Schneider, T.
+Miller, W.M.
+Wise, D.L.
+Erisman, J.W.
+Erisman, J.W.
+Aalbers, Th.G.
+Piccolo, A.
+Tölgyessy, J.
+Nacházel, K.
+Sequeira, C.A.C.
+Sharp, Bruce
+Glasbergen, Pieter
+Sloep, Peter
+Kletz, Trevor
+Eisenbud, Merrill
+Cheremisinoff, Paul
+Michel M. Benarie
+T. Schneider, H.W. de Koning, L.J. Brasser
+H. Siebert, J. Eichberger, R. Gronych, R. Pethig
+Michel M. Benarie
+G. Milazzo
+H. van Lelyveld, B.C.J. Zoeteman
+G. Bianchi, K.V. Frolov, A. Oledzki
+S.E. Jorgensen, I. Johnsen
+W. van Duijvenbooden, P. Glasbergen, H. van Lelyveld
+Zdenek Dlouhy
+Blowers, Andrew
+Andre Blanc-Lapierre
+H.A. Das, A. Faanhof, H.A. van der Sloot
+Marie Siewierski
+T.N. Veziroglu
+Helsel, D.R.
+George Bugliarello, Fred Gunther
+H.L. Golterman
+Yacov Y. Haimes, Warren A. Hall, Herbert T. Freedman
+David Stephenson
+Thomas A. McMahon, Russel G. Mein
+William Back, D.A. Stephenson
+David Stephenson
+William Back, Rene Letolle
+Mamdouh Shahin
+Kinzelbach, W.
+Savenije, H.H.G.
+Judd, S.
+Jørgensen, S.
+S.E. Jørgensen
+Colin, F.
+Legendre, P.
+Miller, C.T.
+Schotting, R.J.
+Miller, C.T.
+Blust, R.J.
+Miller, W.
+Wan, Hakman A
+Thompson, Martin
+Mohide, Thomas
+Roddy, Peter
+Clow, Simon
+Fish, Peter
+Anyadike, Nnamdi
+Anyadike, Nnamdi
+Anyadike, Nnamdi
+Anyadike, Nnamdi
+Wakely, John
+Spencer, Jennifer
+Ruf, François
+Kernot, Charles
+Wellings, Fred
+Waszkis, Helmut
+Spahni, Pierre
+Krayenbuehl, Thomas
+Guenthner, Joseph
+Durieux, Gilbert
+Prindl, Andreas
+Roche, Julian
+Li, Y
+Hicks, Alan
+Bolton, Tom
+Taylor, Bernard
+Park, Murray
+Roche, Julian
+Thorpe, Chris
+Hicks, Alan
+Stewart, T H
+Eales, Peter
+King, James
+Ujiie, Junichi
+Birts, Anthony N
+Raffaelli, Marcelo
+Clubley, Sally
+Anderson, James
+Antill, Nick
+Moir, Lance
+Youngman, Ian
+Amin, Vaumini
+Gasson, Christopher
+Atkin, Michael
+Cade, Eddie
+Welch, Brian
+Hall, Nick
+Long, David
+Reed, Alexander
+Spence, Donald
+Leahy, Gerald
+Rich, Vincent
+Hawkes, Valerie
+Weldon, Lucy
+Bain, William
+Smullen, John
+Prichard, Julia
+Roche, Julian
+Peck, Tim
+Roche, Julian
+Warwick-Ching, Tony
+Long, David
+Duncan, Richard
+Kernot, Charles
+Case, Phil
+Townsend, Terry
+Youngman, Ian
+Lynch, James
+Wellings, Fred
+Perquel, François
+Hannah, Tony
+Hewitt, Ken
+Black, William
+Walden, Ian
+MacNamara, John
+Spahni, Pierre
+Gudoshnikov, Sergey
+Bryant, Joy
+Choudhry, Moorad
+Frost, Chris
+Frankfurter, George
+Levy, Haim
+Choudhry, Moorad
+McCleskey, Scott
+Gençay, Ramazan
+Borsch-Supan, Axel
+Yescombe, E. R.
+Eales, Brian
+Loader, David
+Loader, David
+Loader, David
+Brentani, Christine
+Loader, David
+Acar, Emmanual
+Krishna, Vijay
+Scowcroft, Alan
+Loader, David
+Kettell, Brian
+Fight, Andrew
+Paxson, Dean
+Gençay, Ramazan
+Honadle, Beth
+Johnson, RoyE.
+Kettell, Brian
+Sortino, Frank
+Rossi, Peter
+Knight, Rory
+Loader, David
+Schmidt, Anatoly B.
+Loader, David
+Chorafas, Dimitris
+Agar, Chris
+Ong, Michael
+Kimber, Andrew
+Chorafas, Dimitris
+Turner, Catherine
+Chorafas, Dimitris
+Bishop, Eric
+Fight, Andrew
+Nelken, Izzy
+Fight, Andrew
+Knight, John
+Skinner, Frank
+Choudhry, Moorad
+Choudhry, Moorad
+Choudhry, Moorad
+Madden, Bartley
+Bomfim, Antulio
+Albanese, Claudio
+Britten-Jones, Mark
+Fight, Andrew
+Knight, John
+Geddes, Ross
+Hussain, Amanat
+Satchell, Stephen
+Vinturella, John
+Tham, Joseph
+Costantini, Pascal
+Chorafas, Dimitris
+Christoffersen, Peter
+Fernandez, Pablo
+Tresch, Richard
+Hirschey, Mark
+Gregoriou, Greg
+Zipf, Robert
+Brown, Roger J.
+Standfield, Ken
+McNelis, Paul
+Bidgoli, Hossein
+Chavas, Jean-Paul
+Standfield, Ken
+Poitras, Geoffrey
+Gregoriou, Greg
+Chorafas, Dimitris
+Rachev, S.T
+Holgate, Stephen
+Joseph, M.
+Gallagher, Richard
+Davis, Martha
+Mestecky, Jiri
+Mire-Sluis, Anthony
+Rood, Julian
+Nezlin, Roald
+Lukic, Miodrag
+Farmer, Stephen
+Hurst, Christon
+Domingo, Esteban
+Sande, Merle
+Groisman, Eduardo
+Stanberry, Lawrence
+Mara, Duncan
+Dunn, Ben
+Hunter-Cevera, Jennie
+Goding, James
+Diamandis, Eleftherios
+Kagnoff, Martin
+Kiyono, Hiroshi
+Sarzi-Puttini, Piercarlo
+Arora, Dilip K
+Arora, Dilip K
+Page, Clive
+Marr, Joseph
+Brian W.J. Mahy
+Silverstein, Arthur
+Tully, Joseph
+Wiedbrauk, Danny
+Razin, Shmuel
+Pastoret, Paul-Pierre
+Page, Clive
+Bertok, Lorand
+Lockshin, Michael
+Anholt, Robert RH
+Rifkind, David
+Asherson, Ronald
+Mims, Cedric
+Lotze, Michael
+Marr, Joseph
+Percival, Steven
+Craighead, John
+Marone, Gianni
+Morgan, B.
+Wormser, Gary
+Cruse, Julius
+Omura, Satoshi
+Dalgleish, Angus
+Honjo, Tasuku
+Donnenberg, Michael
+Cynthia Robbins-Roth
+Lahita, Robert
+Craig, Alister
+Harper, David
+Cohen, Irun
+Bazin, Hervé
+Kaplitt, Michael
+Yi-Wei, Tang
+Nash, Anthony
+Curiel, David
+Andriole, Vincent
+Jackson, Alan
+Thomson, Angus
+Budowle, Bruce
+Mackay, Ian
+Straub, R.H.
+Asherson, Ronald
+Lotze, Michael
+Mayer, Kenneth
+Schijns, Virgil
+Pritchard, Peggy A.
+Cole, Richard
+Honjo, Tasuku
+Mak, Tak
+Bloom, Barry
+Rose, Noel
+Alouf, Joseph
+Kennedy, R.C.
+Burgess, J.G.
+Asherson, Ronald
+Khachatourians, G.G.
+Khachatourians, G.G.
+Khachatourians, G.G.
+Khachatourians, G.G.
+Corry, J.E.L.
+Schinazi, R.F.
+Stapleton, Jr., R.D.
+Ransohoff, R.M.
+Galasso, G.J.
+Singh, A.
+Peter, J.B.
+Matera, L.
+Thompson, R.C.A.
+Berczi, I.
+Kurtzman, C.P.
+Gershwin, M.E.
+De Clercq, E.
+De Clercq, E.
+Corry, J.E.L.
+Dijkshoorn, L.
+Berczi, I.
+Sikyta, B.
+Singh, V.P.
+Shoenfeld, Y.
+De Clercq, E.
+Lightfoot, N.F.
+Pan, N
+Ferry, M
+Bibb, R
+Mattila, H
+Maxwell, J
+Granjon, H.
+Eckold, G C
+Coveney, V
+Beeley, P R
+Kennedy, J F
+Fung, W
+Lancaster, J. F.
+Hodgkinson, J M
+Matthews, F L
+Starr, T.
+Horrocks, A R
+Burnell-Gray, J S
+McIntyre, J E
+Miravete, A
+Borenstein, S
+Reid, S. R.
+Hollaway, L C
+Pritchard, G.
+Horrocks, A R
+Kennedy, J F
+Papthanasiou, T D
+Espie, A W
+Jenkins, M
+Anand, S C
+Khatak, H S
+Harris, B.
+Woodings, C
+Kennedy, J F
+Gunn, R
+Hearle, J. W. S.
+Lohr, R D
+Hongu, T
+Gibson, A G
+McKenna, H A
+Simpson, W S
+Hongu, T
+Moore, D R
+Kennedy, J F
+Horrocks, A R
+De, S K
+Rudd, C D
+Owen, M J
+Summerscales, J.
+Miravete, A
+Cogswell, F N
+Cogswell, F N
+Grainger, S
+Lambourne, R
+Dennis, J. K.
+Starr, Trevor
+Evans, G M
+Scott, R A
+Guo, Z X
+Ross, C T F
+Brandt, A M
+Smith, R.
+Apte, V
+Ye, L
+Bucknall, D
+Matthews, F L
+Franck, R R
+Ding, K
+Vadgama, P
+Adams, R D
+Seetharaman, S
+Gordon Cook, J
+Thompson, R
+Blitz, J P
+Karsa, D R
+Blackburn, R S
+Hearle, J. W. S.
+Kennedy, J F
+Tao, X M
+McArthur, H
+Bhatnagar, A
+Mai, Y.-W.
+Grosicki, Z
+Hollaway, L C
+Gong, R H
+Baillie, C
+Behery, H
+Shishoo, R
+Low, I M
+Anand, S C
+Clarke, A
+Soutis, C
+Hench, L
+Hannink, R H J
+Farrar, C
+Mellor, B G
+Kennedy, J F
+Hu, J
+Gilligan, E G
+Long, A C
+Le Bras, M
+Chen, P
+Franck, R R
+Gordon Cook, J
+Phaal, R
+Cahn, R.W.
+Sandler, Stanley
+Ohring, Milton
+Scott, K.
+Engdahl, Göran
+Trott, A. R.
+Belov, Nikolay A.
+Marsh, Harry
+Miyake, S.
+Rollett, Anthony
+Egami, Takeshi
+Szweda, R.
+Szweda, R.
+Johnson, Mark
+Meyers, M.
+Records, A.
+Kagan, Aubrey
+Onwubolu, Godfrey
+Kohl, Michael
+Henini, Mohamed
+Wagh, Arun
+Tsu, Raphael
+Watanabe, T
+Rong, Yiming (Kevin)
+Henini, Mohamed
+Kassner, Michael
+Martin, J. W.
+Kavokin, Alexey
+Ameduri, Bruno
+Zhang, Liang
+Walczak, Z.K.
+Fukuda, H.
+Bhadeshia, Harry
+Monteiro, P.J.M.
+Ke, Y.C.
+Khomchenko, Alexander
+Khor, Eugene
+Rosato, Rosato, Rosato, Donald, Dominick, Matthew
+Europump & the Hydraulic Insti
+Hosono, Hideo
+Deville, J.-P.
+Rao, K.J.
+Weaver, Graham
+Machlin, Eugene
+Nabarro, Frank
+Sree Harsha, Professor K.S.
+Casas, Jose S.
+Murakami, Yukitaka
+DiPippo, Ronald
+Lenard, J.G.
+Elices, M.
+Yasuda, E.
+Christian, J.W.
+Wang, Frederick
+M. Iwamoto, K. Kaneto and S. Mashiko
+Tong, L.
+Tjong, S.C.
+Dai, Liming
+Jagadish, Chennupati
+Machlin, Eugene
+Campbell Jr, Flake
+Biron, Michel
+Greer, J.
+Kobashi, Koji
+Shi, Donglu
+Eustathopoulos, N.
+G.K. Horton, A.A. Maradudin
+Williams, David
+Krausz, A.
+Scott, D.V.
+Nalwa, Hari
+Powell, Ronald
+Dresselhaus, M.
+Elssner, G.
+Powell, Ronald
+Fisher, Jane
+Pietrzyk, M.
+Mann, D.
+Suryanarayana, C.
+Moser, William
+Alper, Allen
+Rossnagel, Stephen
+Herman, Irving
+Francombe, Maurice
+Powell, Ronald
+Palik, Edward
+Bovey, Frank
+Capezzuto, Pio
+Chang, R.P.H.
+Elices, M.
+Inagaki, M.
+Koopmann, Gary
+Nalwa, Hari
+Bradley, Don
+Ohring, Milton
+Nalwa, Hari
+Nalwa, Hari
+Nalwa, Hari
+Francombe, Maurice
+Francombe, Maurice
+Caillard, D.
+Wood, Colin
+Somiya, Shigeyuki
+Winston, Roland
+Saunders, N.
+Kim, Jang-Kyo
+Craver, C.
+Yamabe, T.
+Burchell, T.D.
+Hauk, V.
+Rossnagel, Stephen
+Granqvist, C.G.
+Pulker, H.
+Nowotny, J.
+Mileiko, S.T.
+Bhattacharyya, D.
+Cahn, R.W.
+Shiota, I.
+Corapcioglu, M.Y.
+Groh, Heinrich
+JOHN CAMPBELL
+Bertram, Volker
+Boyes, Walt
+Donaldson, Erle
+Gale, William F.
+Seal, Anthony
+Bray, R N
+SNOW, DENNIS A
+Smallman, R. E.
+Nalwa, Hari
+NIENOW, A W
+NEALE, M J
+Ibrahim, Dogan
+Ridley, John
+Nalwa, Hari
+Rudin, Alfred
+Cheremisinoff, Nicholas P
+Kajiwara, Kanji
+Drozdov, Aleksey
+Simmons, Joseph
+Vallero, Daniel
+Lundquist, L.
+Hearn, E.J.
+Hearn, E.J.
+Groenewoud, W.M.
+Hickman, Ian
+Nalwa, Hari
+MacKenzie, Kenneth
+Manasreh, M.O.
+Giles, Jr., Harold F.
+Cheremisinoff, Nicholas P
+Lee, Ning-Cheng
+Morkoc, Hadis
+Gupta, Devendra
+Smith, Peter
+Upadhyaya, Gopal S.
+King, Alan G.
+Gottlieb, Irving
+Agranovich, V.
+Ramachandran, V.S.
+Dodiuk, Hanna
+Fischer, Jerry
+Landrock, Arthur H.
+PDL Staff
+Ohama, Yoshihiko
+Pierson, Hugh O.
+Bassani, G.
+Nabarro, Frank
+Nabarro, Frank
+Chandra, Satish
+Pourdeyhimi, Behnam
+Neale, Michael
+Licari, James J.
+Harris, Ronald M.
+Cheremisinoff, Nicholas P.
+McKeen, Laurence W.
+Moore, Albert L.
+Ebnesajjad, Sina
+Ebnesajjad, Sina
+Cheremisinoff, Nicholas P.
+Ramachandran, V.S.
+Rupprecht, Larry
+El-Eskandarany, M. Sherif
+Portnoy, Robert C
+Benedikt, George M.
+Benedikt, George
+Ebnesajjad, Sina
+Ramachandran, V.S.
+Marinescu, Ioan D.
+Cheremisinoff, Nicholas P.
+Lenahan, Tom
+Barrass, Bryan
+Nelson, Peter
+Kutz, Myer
+Chung, T. C.
+Marinescu, Ioan D.
+Moody, Von
+Shenderova, Olga A.
+Maier, Clive
+Fink, Johannes Karl
+Chandra, Satish
+Wypych, George
+Crawford, Roy J.
+Hench, Larry L.
+Heim, Hans-Peter
+Koch, Carl C.
+Massey, Liesl K.
+Ebnesajjad, Sina
+Massey, Liesl K.
+Ciullo, Peter A.
+Wasa, Kiyotaka
+Moalli, John
+Cheremisinoff, Nicholas P.
+EUROPUMP
+Judd, Simon
+Baillie, Caroline
+Ron Palgrave
+Mackay, Ross
+Heisler, Heinz
+Gardiner, W P
+Dunning-Davies, J
+Beaumont, G P
+Martin, D.
+Hoskins, R F
+Pinto, J S
+Lamon, S J
+Ye, Q-X
+Hardwick, I
+Weiglhofer, W S
+Blackledge, J M
+Ratschek, H
+Page, S.
+Johnson, R. M.
+Matos, J F
+Barry, P D
+Firby, P A
+Mason, J H
+Trevena, D H
+Smith, D K
+De Barra, G
+Jones, A. J.
+Johnson, R. M.
+Conolly, B
+Tinsley, Howard
+Bellman
+Leitmann
+Bellman
+Haight
+Atkinson
+Lefschetz
+Pease
+Benes?
+Ames
+Aczel
+Dreyfus
+Halanay
+Og?uzto?reli
+Erugin
+Leitmann
+Aoki
+Kushner
+Urabe
+Kaufmann
+Cruon
+Ahlberg
+Lee
+Ames
+Miller
+Bailey
+Petrov
+Ladyzhenskaya
+Faure
+Fu
+Gilbert
+Hermes
+Masao
+S?iljak
+Ames
+Bennewitz
+Chukwu
+Olafsson, Gestur
+Adams
+Barbu
+Ames
+Slukvadze
+Maybeck
+Maybeck
+Bellman
+Bellman
+Luke
+Luke
+Lakshmikantham
+Lakshmikantham
+Finlayson
+Angel
+Oliver
+Bertele?
+Lieberstein
+Albert
+Nussenzveig
+Bharucha-Reid
+Zemanian
+Henley
+Tewarson
+Tsypkin
+Tsetlin
+Soong
+Corduneanu
+E?Rnestovich
+Mohler
+Bellman
+Brouwer
+Straub, Dieter
+Sidak, Zbynek
+Greenspan
+Lakshmikantham
+Wachspress
+Acze?l
+Gibson
+Ha?jek
+Rustagi
+Kashyap
+Helstrom
+Cruon
+Bertsekas
+Bierman
+Kushner
+Dreyfus
+Benton
+Michel
+Casti
+Gonzalez-Velasco, Enrique
+Beltrami
+Dyer
+Mendel
+Derman
+Happ
+Berge
+Tsypkin
+Mirsky
+Goodwin
+Henry-Laborde?Re
+Logan
+Bertsekas
+Cohon
+Christensen
+T.Y. Na
+Hutson
+Schroder
+Melsa
+Atkinson
+Meisel
+Norman
+Lakshmikantham
+Reid
+Casti
+Gal
+Lakshmikantham
+Sain
+Harris
+Wimp
+Furman
+Sperb
+Carroll, J.
+Knowles
+Bas?Ar
+Rogers
+Lukes
+Buchanan
+Jerome
+Fiacco
+Blomberg
+Burton
+Harris
+Adomian
+Kanwal
+Mangel
+Teo
+Matsuno
+Casti
+Moser, William
+Ames
+Nikaido, Hukukane
+Masuda, K.
+Masuda, K.
+Colombeau, J.F.
+Trémolières, R.
+Godunov, S.K.
+Lekkerkerker, C.G.
+Hailperin, T.
+Mimura, M.
+Misra, O.P.
+Miyoshi, T.
+Moran, S.
+Moschovakis, Y.N.
+Karpilovsky, G.
+Börger, E.
+Hansen, P.
+Harrington, L.A.
+Pnevmatikos, S.N.
+Berge, C.
+Ferro, R.
+Mikolajczak, B.
+Barroso, J.A.
+Barroso, J.A.
+Barwise, J.
+Barwise, J.
+Revuz, D.
+Rodrigues, J.-F.
+Rogers, C.
+Troelstra, A.S.
+Upmeier, H.
+van Dalen, D.
+van Eijndhoven, S.J.L.
+Colbourn, C.J.
+Colbourn, C.J.
+Colombeau, J.F.
+Cooper, J.B.
+Hiriart-Urruty, J.-B.
+Itô, K.
+Warner, S.
+de León, M.
+Ebbinghaus, H.-D.
+Heble, M.P.
+Morita, K.
+Bollobás, B.
+Jeroslow, R.G.
+Jorgensen, P.E.T.
+Rosenfeld, M.
+Rosinger, E.E.
+Rubin, H.
+Fenstad, J.E.
+Chang, C.C.
+Beauzamy, B.
+Chvátal, V.
+Bresson, D.
+Berge, C.
+Choy, S.T.L.
+Cohen, J.W.
+Cohen, J.J.
+Stroyan, K.D.
+Biliotti, M.
+Barlotti, A.
+Marchi, M.
+Betsch, G.
+Bierstedt, K.-D.
+Binz, E.
+Eckhaus, W.
+Alling, N.L.
+Alling, N.L.
+Aubin, J.-P.
+Ausiello, G.
+Auslander, J.
+Bachem, A.
+Eckhaus, W.
+Emch, G.G.
+Engelsman, S.B.
+Erdös, P.
+Fattorini, H.O.
+Mujica, J.
+Mujica, J.
+Llavona, J.G.
+Banach, S.
+Barcan Marcus, R.
+Nagata, J.-I.
+Narasimhan, R.
+Nishida, T.
+Nagel, R.
+Nishizeki, T.
+Noye, J.
+Shapiro, S.
+Sierpinski, W.
+Odifreddi, P.
+Karpilovsky, G.
+Eklof, P.C.
+Goldmann, H.
+Kane, R.M.
+Rucinski, A.
+Karonski, M.
+Karpilovsky, G.
+Karpilovsky, G.
+White, A.T.
+Wilansky, A.
+Sugiura, M.
+Feit, W.
+Fitting, M.
+Fortin, M.
+Fraenkel, A.A.
+Plummer, M.D.
+Hartman, A.
+Petkov, V.
+Fraïssé, R.
+Fujita, H.
+Noye, J.
+Mallios, A.
+Manin, Yu.I.
+Margolis, H.R.
+Martello, S.
+Massari, U.
+Alspach, B.R.
+Pérez Carreras, P.
+Valdivia, M.
+Antontsev, S.N.
+Ortiz, E.L.
+Paris, J.B.
+The Paris Logic Group
+Peral, I.
+Karpilovsky, G.
+Karpilovsky, G.
+Karpinski, M.
+Kárteszi, F.
+Knowles, I.W.
+García-Cuerva, J.
+Zaanen, A.C.
+Zuily, C.
+Knowles, I.W.
+White, A.T.
+Brady, Geraldine
+Lal Mehta, Madan
+Antonella Cupillari
+Meyer, Walter
+Fraisse, R.
+Arnold, A.
+Vrabie, Ioan I.
+Cohen, A.
+Hutson, V.
+Bierstedt, K.D.
+Dvalishvili, Badri
+Lakshmikantham, Vangipuram
+Chukwu, Ethelbert
+Klement, Erich
+Menasco, William
+Türksen, I. Burhan
+Zbilut, Joseph
+Eklof, P.C.
+Canada, A.
+Chipot, Michel
+Dafermos, C.M.
+H.O. Fattorini
+Koetsier, Teun
+Friedlander, S.
+Friedlander, S.
+Friedlander, S.
+Kilbas, A.A.
+Bakaev, Nikolai
+Johnson, R.H.
+Golumbic, Martin
+Hayashi, Nakao
+Gabbay, Dov M.
+Gabbay, Dov M.
+Grattan-Guinness, Ivor
+Giorgi, Giorgio
+Kharazishvili, Alexander
+Neck, R.
+Kurucz, A.
+Bayoumi, A.
+Schlechta, Karl
+Ivanov, Viktor
+Olariu, S.
+Cioranescu, D.
+G. Meurant
+Cusick, Thomas
+Zimand, Marius
+Neittaanmäki, Pekka
+Broyden, Charles
+Pap, E.
+Iliadis, S.D.
+Sher, R.B.
+Butnariu, D.
+Fujita, H.
+Hirsch, R.
+Akritas, M.G.
+Casti, J.
+Canada, A.
+Kuhnau, Reiner
+Kuhnau, Reiner
+Chipot, Michel
+Pachpatte, B.
+Dieudonne, J.
+Dineen, S.
+Dixmier, J.
+Dixmier, J.
+Døvling Andersen, L.
+Drake, F.R.
+Konstantinov, M.
+Hart, K.P.
+Gabbay, Dov M.
+Dillen, Franki
+Fragoulopoulou, M.
+Dosly, Ondrej
+Sørensen, Morten Heine
+Borsuk, Michail
+Ferrera, J.
+Maddux, Roger
+Katok, A.
+Castillo, Enrique
+Fujishige, Satoru
+Dafermos, C.M.
+Mennicken, R.
+Jetter, Kurt
+Björk, J.-E.
+Bollobás, B.
+Chipot, Michel
+Canada, A.
+Cullum, J.
+Cuyt, A.
+Cvetkovic, D.M.
+de León, M.
+Akbar-Zadeh, Hassan
+Dellacherie, C.
+Dellacherie, C.
+Dellacherie, C.
+Burkard, R.E.
+Calude, C.
+Carroll, R.
+Kadets, Vladimir
+Chavent, G.
+Chazarain, J.
+Seppälä, M.
+Oleinik, O.A.
+Frank, L.S.
+Margalef-Roig, J.
+Hedetniemi, S.T.
+Vansteenkiste, G.C.
+Calogero, F.
+Carroll, R.W.
+Chuaqui, R.
+Akiyama, J.
+Bishop, A.
+Marchuk, G.I.
+Boicescu, V.
+Buekenhout, F.
+Kaiser, G.
+Martinez, C.
+Shelah, S.
+Zhang, Wei-Bin
+Zong, Zhi
+Yu.A. Brudnyi, N. Ya. Krugljak
+Herbert Fleischner
+Herbert Fleischner
+Leon Henkin, J. Donald Monk, Alfred Tarski
+Philippe G. Ciarlet
+Philippe G. Ciarlet
+Gregory Karpilovsky
+Gregory Karpilovsky
+Yu. L. Ershov, S.S. Goncharov, A. Nerode, J.B. Remmel, V.W. Marek
+Yu. L. Ershov, S.S. Goncharov, A. Nerode, J.B. Remmel, V.W. Marek
+De Coster, C.
+Gandy, R.O.
+M. Hazewinkel
+Hazewinkel, M.
+M. Hazewinkel
+Hasselblatt, B.
+Fiedler, B.
+Dov M. Gabbay, John Woods
+Zlatev, Zahari
+Guillotin-Plantard, Nadine
+Hazewinkel, M.
+Wang, Fengyu
+Pachpatte, B.
+W.B. Johnson, J. Lindenstrauss
+W.B. Johnson, J. Lindenstrauss
+Corneliu Constantinescu
+Corneliu Constantinescu
+Corneliu Constantinescu
+Corneliu Constantinescu
+Corneliu Constantinescu
+Kolman, Bernard
+Koopmans, Lambert
+Kounchev, Ognyan
+Cohen, G.
+Phillips, G.
+Platonov, Vladimir
+Gajic, Zoran
+Andersson, S.
+Buss, S.R.
+Taylor, J.G.
+Schechter, Eric
+Orsted, Bent
+Szyszkowicz, B.
+Griffor, E.R.
+James, I.M.
+Heckman, Gerrit
+Isidro, J.M.
+Metakides, G.
+Prolla, J.B.
+Segal, Sanford
+Stern, J.
+Young, L.
+Zapata, G.I.
+Denes, J.
+Fujishige, S.
+Rosinger, E.E.
+von Grudzinski, O.
+Gabbay, Dov M.
+Carroll, R.
+Carroll, R.
+Chandra, J.
+Chen, L.H.Y.
+Chong, C.-T.
+Chuaqui, R.B.
+Colombeau, J.F.
+Fuchssteiner, B.
+Greer, R.
+Hogbe-Nlend, H.
+Axelsson, O.
+Ceccherini, P.V.
+Barroso, J.A.
+Papanicolau, G.
+Bensoussan, A.
+Bensoussan, A.
+Bierstedt, K.-D.
+Ciarlet, P.G.
+de Werra, D.
+Watanabe, S.
+Kardestuncer, H.
+Mendelsohn, E.
+Kaplan, S.
+Lolli, G.
+Mazet, P.
+Nagata, M.
+van Benthem, J.
+Nastasescu, C.
+Obata, M.
+Pouzet, M.
+Turgeon, J.
+Koshy, Thomas
+Miller, Scott
+Morgan, Frank
+Ames, William
+Ames, William
+Dubois, Didier
+Welland, Grant
+Bruno, A.D.
+Rotman, Joseph
+Podlubny, Igor
+Blasius, Jörg
+Helgason, Sigurdur
+K.P.S. Bhaskara Rao, M. Bhaskara Rao
+Hellegouarch, Yves
+O'Reilly, John
+Maybeck, Peter
+Lax, Peter
+Fell, J.
+Hurd, Albert
+de Graaf, W.A.
+Wilcox, Rand
+Sack, J.R.
+Fell, J.
+Farkas, Miklós
+Wallach, Nolan
+Ash, C.J.
+Gurtin, Morton
+J.R. Leigh
+Gurarie, D.
+Nešetril, J.
+van de Vel, M.L.J.
+Brezinski, C.
+Tonev, T.V.
+Bierstedt, K.D.
+Babin, A.V.
+Odifreddi, P.
+Ericson, T.
+Bear, H.
+Dym, Clive
+Medhi, Jyotiprasad
+Sanchis, L.E.
+Kracht, M.
+Bultheel, A.
+Cusick, T.W.
+Frankiewicz, R.
+Oberguggenberger, M.B.
+Cantini, A.
+van Benthem, J.
+Warner, S.
+Hwang, F.K.
+Magyar, Z.
+Mahadev, N.V.R.
+Piccinini, R.A.
+Prawitz, D.
+Schulze, B.-W.
+Barlotti, A.
+Defant, A.
+Dillen, F.J.E.
+Goodaire, E.G.
+Aoki, N.
+Gimbel, J.
+Singh, R.K.
+Rybakov, V.V.
+Aarts, J.M.
+Akivis, M.A.
+Nederpelt, R.P.
+Chigogidze, A.
+James, I.M.
+Turrell, George
+Kosinski, Antoni
+Jeffrey, Alan
+V.B. Kolmanovskii, V.R. Nosov
+O'Neill, Barrett
+Bennett, Colin
+Chavel, Isaac
+Frenkel, Igor
+Vujanovic, B.
+Balachandran, V.K.
+Sigurdur Helgason
+Berger, Melvyn
+Kuang, Yang
+E.R. Kolchin
+E. Polak
+Jazwinski, Andrew
+Peajcariaac, Josip
+Carroll, R.
+Stern, A.
+Choquet-Bruhat, Y.
+Widder, D.
+Hirsch, Morris W.
+Komkov, Vadim
+Dieudonne, Jean
+Stroyan, Keith
+Larry C. Grove
+Wang, Dongming
+Perrin, Dominique
+Adams, Robert
+Jeffrey, Alan
+E.R. Kolchin
+W.D. Curtis, F.R. Miller
+Jean Berstel, Dominique Perrin
+Charalambos D. Aliprantis, Owen Burkinshaw
+Anthony P. Morse
+William M. Boothby
+Douglas C. Ravenel
+Sergio Albeverio, Raphael Hoegh-Krohn, Jens Erik Fenstad, Tom Lindstrom
+A.S.B. Holland
+A. Wayne Roberts, Dale E. Varberg
+H.M. Edwards
+Samuel Eilenberg
+Samuel Eilenberg, Bret Tilson
+Wilhelm Magnus
+Francois Treves
+William M. Boothby
+Brayton Gray
+Robert A. Adams
+John J. Benedetto
+Irving Ezra Segal
+James R. Brown
+K.D. Stroyan, W.A.J. Luxemburg
+Albedo Torchinsky
+Robert J. Daverman
+Jens Carsten Jantzen
+Louis H. Rowen
+Louis H. Rowen
+Nolan R. Wallach
+Michael Sharp
+Donald S. Passman
+Heinz-Otto Kreiss, Jens Lorenz
+Szabo, Fred
+Clifford A. Truesdell
+B.M. Puttaswamaiah, John D. Dixon
+George Gratzer
+Charalambos D. Allprantls, Owen Burkinshaw
+Jan Mikusinski
+Michiel Hazewinkel
+Thomas Jech
+Carl L. DeVito
+Poschel, Jurgen
+Robert B. Burckel
+Barry Simon
+C. Truesdell, R.G. Muncaster
+Louis Halle Rowen
+David Kinderlehrer, Guido Stampacchia
+Joan S. Birman, Julian Eisner
+Grzegorz Rozenberg, Arto Salomaa
+Donald W. Kahn
+Robert M. Young
+M.C. Irwin
+Eduard Prugovecki
+Ivar Ekeland, Roger Temam
+C. von Westenholz
+A.D. Ioffe, V.M. Tihomirov
+Jean-Pierre Kernevez
+John B. Garnett
+M. Scott Osborne, Garth Warner
+Jean Dieudonne, I.G. Macdonald
+Joseph G. Rosenstein
+Howard Osborn
+Avraham Feintuch, Richard Saeks
+K.A. Zhevlakov, A.M. Slin'ko, I.P. Shestakov, A.I. Shirshov, Harry F. Smith
+Ulf Grenander
+Richard V. Kadison, John R. Ringrose
+Richard V. Kadison, John R. Ringrose
+Richard V. Kadison, John R. Ringrose
+Edward B. Manoukian
+Thomas M. Hess
+Steven Roman
+John W. Morgan, Hyman Bass
+Jean-Dominique Deuschel, Daniel W. Stroock
+Hong, Don
+Peter L. Duren
+Bodo Pareigis
+Paul L. Butzer, Rolf J. Nessel
+Eduard Prugovecki
+Ernst-August Behrens
+Ernst-August Behrens, Clive Reis
+Morris Newman
+Glen E. Bredon
+Werner Grezd, Stephen Hulperin, Ray Vanstone
+GREUB
+Elmer J. Brody
+Ronald G. Douglas
+Willard Miller
+Arthur A. Sagle, Ralph E. Walde
+T. Benny Rushing
+James W. Vick
+Gerald J. Janusz
+Miguel de Guzman
+Luigi Ricciardi, Alwyn Scott
+Bernard Beauzamy
+V. Lakshmikantham
+Masayasu Mimura, Takaaki Nishida
+Leopoldo Nachbin
+Joseph R. Shoenfield
+Phlllppe Noverraz
+Leopoldo Nachbin, Jean Pierre Ferrier
+H. Brezis
+Wiktor Eckhaus
+Terrence Gagen, Mark P. Hale, Ernest E. Shult
+M.A. Kaashoek, T.T. West
+J.P.R. Christensen
+G. Coeure
+E.M. De Jager
+P.L. Hammer, E.L. Johnson, B.H. Korte, G.L. Nemhauser
+B. Alspach, P. Hell, D.J. Miller
+B. Bollobas
+P.L. Hammer, E.L. Johnson, B.H. Korte
+P.L. Hammer, E.L. Johnson, B.H. Korte
+J. Srivastava
+C.C. Lindner, A. Rosa
+M. Deza, I.G. Rosenberg
+Peter L. Hammer
+U. Zimmermann
+Leopoldo Nachbin, W.V. Vasconcelos
+Peter Hilton, Guido Mislin, Joe Roitberg
+Leopoldo Nachbin
+Maurice D. Weir
+Yasutaka Sibuya
+Daniel Gallin
+Leopoldo Nachbin, Igor Kluvanek, Greg Knowles
+Wiktor Eckhaus
+Alexander Zabrodsky
+Mario C. Matos
+Gunter Pilz
+Edward Beckenstein, Lawrence Narici, Charles Suffel
+Joao B. Prolla
+Henri Hogbe-Nlend
+Klaus-Dieter Bierstedt, Benno Fuchssteiner
+James Bell Cooper
+Guilherme M. De La Penha, Luiz Adauto J. Medeiros
+Wiktor Eckhaus, Eduard M. de Jager
+M.E.A.El Tom
+Joao B. Prolla
+G. Iooss
+R.W. Carroll
+Claude Francois Picard
+Michel Demazure
+Leopoldo Nachbin
+Susan Friedunder
+Saul Lubkin
+J.-M. De Koninck, A. Ivic
+Elemer E. Rosinger
+N. Mahammed
+Arnold Sommerfeld
+Reinhold Baer
+Herbert Busemann, Paul J. Kelly
+Stefan Bercman, M. Schiffer
+Ralph Philip Boas
+Z.I. Borevich, I.R. Shafarevich
+Jose Luis Massera, Juan Jorge Schaffer
+Richard D. Schafer
+Martin Eichler
+Shreeram Shankar Abhyankar
+Francois Treves
+Oystein Ore
+Maurice Heins
+R.M. Blumenthal, R.K. Getoor
+L.J. Mordell
+J. Barkley Rosser
+William F. Donoghue
+Marston Morse, Stewart S. Cairns
+Edwin Weiss
+Hans Freudenthal, H. de Vries
+Laszlo Fuchs
+Keio Nagami, Yukihiro Kodama
+Herbert Busemann
+Claude Chevalley
+Sze-Tsen Hu
+Samuel I. Goldberg
+Sigurdur Helgason
+Shreeram Shankar Abhyankar
+Richard L. Bishop, Richard J. Crittenden
+Steven A. Gaal
+Barry Mitchell
+Anthony P. Morse
+Gustave Choquet
+Philippe G. Ciarlet
+Jacobs, B.
+de Kerf, E.A.
+Freyd, P.J.
+D.V. Widder
+Torokhti, Anatoli
+Girko, Vyacheslav
+Beklemishev, Lev
+Oleinik, O.A.
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Girko, Vyacheslav
+Girko, Vyacheslav
+Girko, Vyacheslav
+Girko, Vyacheslav
+Girko, Vyacheslav
+Girko, Vyacheslav
+Girko, Vyacheslav
+Girko, Vyacheslav
+Girko, Vyacheslav
+Girko, Vyacheslav
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Krupka, Demeter
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Beklemishev, Lev
+Torokhti, Anatoli
+Torokhti, Anatoli
+Beklemishev, Lev
+Beklemishev, Lev
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Torokhti, Anatoli
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Beklemishev, Lev
+Troelstra, A.S.
+Beklemishev, Lev
+Beklemishev, Lev
+Torokhti, Anatoli
+Luxemburg, W.A.J.
+Yves Meyer
+Otto H. Kegel, Bertram A.F. Wehrfritz
+Hans Lausch, Wilfried Nobauer
+Hormander, L.
+Knopfmacher
+Cheeger
+Diximier
+Jeon, Kwang
+G.H. Bourne, J.F. Danielli and K.W. Jeon
+Burton, Ted
+Narayanan, H.
+van Mill, J.
+Rose, H.E.
+Kanger, Stig
+Ortner, Donald
+Cameron, Noel
+Coulston, Ann
+Ogden, Thomas
+Bernstein, Matt
+Leung, Peter
+Tseng, Wen-Shing
+Vize, Peter
+Avioli, Louis
+Schachter, Steven
+Gallin, John
+Krause, Richard
+Brent, Leslie
+Goldman, Marlene
+Lobo, Rogerio
+Holgate, Stephen
+Scheuer, Louise
+Orwoll, Eric
+Barnes, Peter
+Marone, Gianni
+Lichtman, Marshall
+Brender, Jytte
+Miller, Jon
+Winslow, Robert
+Lanza, Robert
+Kurachi, Yoshihisa
+Tulchinsky, Theodore
+Wagner, Michael
+Goodman, H. Maurice
+Hillyer, Christopher
+Denomme, Gregory
+Ensley, John
+Barrett, Kim
+Souba, Wiley
+Ziegenfuss, James
+Shapiro, Frederic
+Legato, Marianne
+Bilezikian, John
+Henderson, B.
+Barnes, Peter
+Liang, T.
+Menikoff, Alan
+Shannon, Scott
+DeRenzo, Evan
+Marcus, Robert
+Avioli, Louis
+Altchek, Albert
+Pettifor, John
+Stauffer, Eric
+Pinkerton, Kent
+Riffenburgh, Robert
+Preedy, Victor
+Mack, Thomas
+Kleerekoper, Michael
+Khan, M. Gabriel
+Lanzkowsky, Philip
+Hillyer, Christopher
+Mydlo, Jack
+Compston, Juliet
+Seibel, Markus
+Lehmann-Horn, F.
+Kalter, H.
+Cervera, R.
+Shoenfeld, Y.
+Tsuchida, E.
+Pulst, Stefan
+Zani, Alberto
+Miller, David
+Kuzniecky, Ruben
+Itti, Laurent
+Herrling, Paul
+Caplan, Louis
+Goodglass, Harold
+Slikker, Jr., William
+Tuszynski, Mark
+Carson, Richard
+Toga, Arthur
+Sherman, S.
+Wang, Eugenia
+Kase, Hiroshi
+Toga, Arthur
+Grundemar, Lars
+Hof, Patrick
+Squire, Larry R.
+Kotagal, Prakash
+Dinner, Dudley
+Squire, Larry R.
+Perez-Polo, J.
+Maines, Mahin
+Latchman, David
+Grodzinsky, Yosef
+Squire, Larry R.
+Haggard, Patrick
+Mazziotta, John
+Myers, Ralph
+Olanow, C.
+David W. Robertson
+Vincent, Stephen
+Cervos-Navarro, Jorge
+Chang, Louis
+Dobbing, John
+Roche, Patrick
+Krauth, J.
+Thompson, Edward
+Katzman, Robert
+Jenner, Peter
+Newton, Herbert
+Squire, Larry R.
+Macdonald, R.
+Baram, Tallie
+Payne, Bertram
+Deletis, Vedran
+Brandt, Thomas
+Moller, Aage
+Sharma, Hari Shanker
+Conn, P. Michael
+Conn, P. Michael
+Smith, A.
+Conn, P. Michael
+Sealfon, Stuart
+Squire, Larry R.
+Morris, Richard
+Dunnett, S.B.
+Steckler, T.
+Wernick, Miles
+Sarkar, Gobinda
+Lazzarini, Robert
+Paxinos, George
+Pfaff, Donald
+Kaplitt, Michael
+Schachter, Steven
+Toga, Arthur
+Friston, Karl
+Paxinos, George
+Byrne, John
+Koob, George
+Unterharnscheidt, Friedrich
+Waxman, Stephen
+Pitkänen, Asla
+Sweatt, J. David
+Alves, Wayne
+Shaw, Gordon
+Waxman, Stephen
+Nyberg, Fred
+LeDoux, Mark
+Arbib, Michael
+Steckler, T.
+Findlay, J.M.
+Bell, C.
+Hökfelt, T.
+Bloom, Floyd
+Bretschneider, Franklin
+Crusio, W.E.
+Kaczmarek, L.
+Bjorklund, A.
+Steinbusch, H.W.M.
+Storm-Mathisen, J.
+Bloom, Floyd
+Björklund, A.
+Björklund, A.
+Malhotra, S.K.
+Whitaker, Harry
+Exley, C.
+Aertsen, A.
+Cervero, Fernando
+Swaab, Dick. F.
+Swaab, Dick. F.
+Gad, Shayne
+Seldin, Donald
+Testa, Bernard
+Marquardt, Hans
+Krieger, Robert
+Nicolaidis, Stylianos
+Loomis, Ted
+Merrills, Jon
+Testa, Bernard
+Testa, Bernard
+Testa, Bernard
+Castell, Jose
+Testa, Bernard
+Ganderton, David
+Giardina, Dario
+Descotes, Jacques
+Khan, Mahmud Tareq Hassan
+Dukes, M.N.G.
+Adjei, Alex
+Wermuth, Camille
+Fleisch, Herbert
+Hakkinen, P.J.
+Haschek, Wanda
+Gupta, Ramesh
+Astrup-Jensen, A.
+Browne, T.R.
+Mitsui, T.
+Awouters, F.
+Olivier, B.
+Anand, N.
+Griffin, J.P.
+van der Goot, H.
+Lasic, D.D.
+Leurs, R.
+Maryanoff, B.E.
+Timmerman, H.
+Timmerman, H.
+Descotes, J.
+Greaves, Peter
+Maryanoff, B.E.
+Reitz, A.B.
+Gianella, M.
+Iwu, M.M.
+van der Goot, H.
+Riley, C.M.
+Ahuja, Satinder
+Chowdhury, Swapan
+Vardanyan, Ruben
+Lunte, S.M.
+Cohen, N. Claude
+Friary, Richard
+Devillers, James
+Valter, K.
+Devillers, James
+Sadana, Ajit
+Wells, David
+Ahuja, Satinder
+Kyranos, James
+Görög, S.
+Ahuja, Satinder
+Garfin, David
+Ahuja, Satinder
+Ahuja, Satinder
+Frenkel, Daan
+Steven K. Shevell
+Kiejna, A.
+Thurston, R.
+Wong, Po-Zen
+Poole, Charles
+Warren, Warren
+Cowley, J.M.
+Poon, T.-C.
+Furukawa, Y.
+Grieder, P.K.F.
+Sieniutycz, Stanislaw
+Ortiz de Zarate, Jose
+Hoshino, Masahiro
+Leiber, C.-O.
+Boetter-Jensen, L.
+Marsch, E.
+Martens, P.
+Alexeev, Boris
+Coniglio, Antonio
+Müller, Georg
+Lyu, L.-H.
+Bovier, Anton
+Kazakov, Dmitri
+Wang, H.
+Horowitz, Yigal
+Albuquerque, Eudenilson
+Torre, Amalia
+Esteve, Daniel
+Mills, D.L.
+Chakraborty, T.
+Chow, Carson
+Klyatskin, Valery
+Klyatskin, Valery
+Bouchiat, Hélène
+Green, S.F.
+Chakrabarti, Bikas
+Chatenay, Didier
+Halperin, Bill
+Bradley, David
+Dieks, Dennis
+Stauffer, Dietrich
+Makarova, Tatiana
+Mendez-Vilas, Antonio
+Chatterji, Tapan
+Eichler, Jörg
+Afraimovich, Valentin
+Sun, Jian-Qiao
+D.F. Brewer
+D.F. Brewer
+D.F. Brewer
+D.F. Brewer
+D.F. Brewer
+D.F. Brewer
+Halperin, W.P.
+Luo, Albert
+Domb, Cyril
+Wriedt, T.
+Grimvall, G.
+Pike, E.
+Eichler, Jörg
+Fano, U.
+Thurston, R.
+De Graef, Marc
+Nakamura, Y.
+Xu, R.L.
+Dunning, F.
+Dunning, F.
+Stanford, John
+Domb, Cyril
+Sheng, Ping
+Stroscio, Joseph
+Grosso, Giuseppe
+Filippi, Paul
+Hawkes, Peter
+Liu, Cho-Teng
+Lucatorto, Thomas
+Hsiao, F.-B.
+Thurston, R.
+Warren, Warren
+Domb, Cyril
+Creagh, D.C.
+Lucatorto, Thomas
+De Graef, Marc
+Cornwell, John
+Chakraborty, T.
+Hoffman, Dorothy
+Berman, Paul
+De Graef, Marc
+Domb, Cyril
+Dodelson, Scott
+Lucatorto, Thomas
+Lucatorto, Thomas
+Trallero-Giner, C.
+Hetnarski, R.B.
+Baert, P.J.N.
+Unertl, W.N.
+Nassau, K.
+Horn, K.
+ter Haar, D.
+Pathria, R K
+Levy, Moises
+Davis, Sumner
+Takagahara, Toshihide
+Doicu, Adrian
+De Graef, Marc
+Saslow, Wayne
+Maruyama, K.
+van Zee, Roger
+Parr, Albert
+De Graef, Marc
+C.L. Tang
+G.L. Weissler, R.W. Carlson
+R.A. Fava
+R.A. Fava
+R.A. Fava
+Patrick Richard
+R.J. Emrich
+R.J. Emrich
+Peter D. Edmonds
+Gerald Ehrenstein, Harold Lecar
+J.N. Mundy, S.J. Rothman, M.J. Fluss, L.C. Smedskjaer
+Robert L. Park, Max G. Lagally
+Kurt Skold, David L. Price
+David L. Price, Kurt Skold
+Kurt Skold, David L. Price
+Charles G. Sammis, Thomas L. Henyey
+Charles G. Sammis, Thomas L. Henyey
+Daniel Malacara
+Daniel Malacara
+C.J. Gorter
+C.J. Gorter
+C.J. Gorter
+C.J. Gorter
+C.J. Gorter
+C.J. Gorter
+D.F. Brewer
+D.F. Brewer
+Immanuel Estermann
+K. Lark-Horovitz, Vivian A. Johnson
+K. Lark-Horovitz, Vivian A. Johnson
+Dudley Williams
+Luke C.L. Yuan, Chien-Shiung Wu
+Luke C.L. Yuan, Chien-Shiung Wu
+E. Bleuler, R.O. Haxby
+Vernon W. Hughes, Howard L. Schultz
+Benjamin Bederson, Wade L. Fite
+Benjamin Bederson, Wade L. Fite
+L. Marton, W.F. Hornyak
+Hans R. Griem, Ralph H. Lovberg
+Ralph H. Lovberg, Hans R. Griem
+L.C. Robinson
+R.V. Coleman
+N. Carleton
+M.L. Meeks
+MARTON
+Dudley Williams
+Dudley Williams
+C.L. Tang
+Kozima, Hideo
+Krige, J.
+Sun, Jian-Qiao
+Fine, Aubrey
+Wolfe, Christopher
+Georgas, James
+Comstock, George
+Keppel, Robert
+Bennett, Michael
+Dodgen, Charles
+Phye, Gary
+Rogers, Richard
+Speer, David
+Phye, Gary
+Martinez, Jr., Joe
+Hancock, Peter
+Bly, Benjamin
+Beauchamp, Gary
+Hochberg, Julian
+Andersen, Peter
+Bybee, Jane
+Chin, Steven
+Hogan, Robert
+Birnbaum, Michael
+Sarno, Martha
+Prifitera, Aurelio
+Higgins, Stephen
+O'Donohue, William
+Novak, Joseph
+De Valois, Karen
+Swim, Janet
+Meloy, J.
+Mealey, Linda
+O'Donohue, William
+Evans, James
+Fine, Marvin
+Koenig, Harold
+Deutsch, Diana
+Geen, Russell
+Hess, Thomas
+Fischer, Constance
+Green, Joanne
+Paniagua, Freddy
+Mintzes, Joel
+Boekaerts, Monique
+Comstock, George
+Cizek, Gregory
+Snyder, C.
+Kolt, Laurie
+Levy, Terry
+Wichers, Robert
+Cochran, Sam
+Weckowicz, T.E.
+Fine, Aubrey
+Apter, M.J.
+Baker, W.J.
+Brehmer, B.
+Hauert, C.-A.
+Proctor, R.W.
+Sommerhoff, G.
+Jensen, Arthur R.
+Brainerd, Charles
+Epstein, William
+Friedman, Morton
+O'Connor, Kevin
+Hersen, Michel
+Aneshensel, Carol
+Gelman, Rochel
+Heuer, Herbert
+Willis, Sherry
+DeGangi, Georgia
+Kruger, Lawrence
+Magai, Carol
+Gullotta, Thomas
+Carterette, Edward
+Neumann, Odmar
+Prinz, Wolfgang
+Quick, Ellen
+von Eye, Alexander
+Boden, Margaret
+Bickhard, M.H.
+Strohl-Goebel, H.
+Wade, M.G.
+Hjelmquist, E.
+Morasso, P.
+van Geert, P.
+Cattell, R.B.
+Hentschel, U.
+Kao, H.S.R.
+Hillner, K.
+Degreef, E.
+Humphreys, P.
+Nowakowska, M.
+Hillner, K.
+Roy, E.A.
+Whiting, H.T.A.
+Mellgren, R.L.
+Geissler, E.A.
+Ritter, W.
+Paton, Ray
+Rassin, Eric
+Amberber, Mengistu
+Phye, Gary
+Wilson, K.V.
+Klix, F.
+Vroon, P.A.
+Jeannerod, M.
+Tavecchio, L.W.C.
+Wilke, H.A.M.
+Salthouse, T.
+Scholz, R.W.
+Schwarzer, R.
+Rauh, H.
+Flammer, A.
+Myers, T.
+Arrigo, Bruce
+Birren, James
+Hancock, P.A.
+Downing, J.
+Eskola, A.
+Meshkati, N.
+Meijer, O.G.
+Colley, A.M.
+Levin, I.
+Mandl, H.
+Wallace, S.A.
+Hershberger, W.A.
+de Soete, G.
+Malcolm, G.
+Crozier, W.R.
+Kurcz, I.
+Stelmach, George
+Madsen, K.B.
+Fry, P.S.
+Clapin, Hugh
+Johnson, Sharon
+Haskell, Robert
+Aronson, Joshua
+Birnbaum, Michael
+Ciarrocchi, Joseph
+Hentschel, Uwe
+Hecht, Heiko
+Cohen, Jonathan
+Price, John
+Tulsky, David
+Hersen, Michel
+Hersen, Michel
+Masoro, Edward
+Binstock, Robert
+Wessler, Richard
+Sansone, Carol
+Nichols, Janice
+Held, Carsten
+Weiss, Lawrence
+Ruben, Douglas
+Kolko, David
+Gopaul McNicol, Sharon-ann
+Cummings, Nicholas
+Baer, Ruth
+Goldstein, Sam
+O'Donohue, William
+Daruna, Jorge
+Wigfield, Allan
+Funder, David
+Pepping, Mary
+Spirito, Anthony
+Kazarian, Shahe
+Cummings, Nicholas
+Friedman, Howard
+Friedman, Howard
+Berninger, Virginia
+Cohen, Henri
+Schrank, Fredrick
+Phye, Gary
+Moran, Daniel
+Greer, R. Douglas
+Stelmack, Robert M
+Matson, Johnny
+Craske, Michelle G.
+Heather, Nick
+Orvaschel, Helen
+Frost, Randy O.
+Nyborg, Helmuth
+Singh, Nirbhay N
+Shipley, Thomas F.
+Folk, Charles
+Phye, Gary
+Radach, Ralph
+Adams, Neal
+Wong, Bernice
+Prifitera, Aurelio
+Phye, Gary
+Tseng, Wen-Shing
+Heredia, Roberto
+Wagner, Eric
+Hudson, Jennifer
+O'Donohue, William
+Edelstein, Wolfgang
+Trimpop, R.M.
+Hommel, B.
+Morasso, P.G.
+Bradshaw, C.M.
+Mandell, C.
+P.J. Hettema
+Dominic W. Massaro, Glen A. Taylor, Richard L. Venezky, James E. Jastrzembski, Peter A. Lucas
+Jean-Francois Le Ny, Walter Kintsch
+Richard A. Magill
+Kirsti M.J. Lagerspetz, Pekka Niemi
+Alastair G. Gale, Frank Johnson
+Friedhart Klix, Risto Naatanen, Klaus Zimmer
+Stephen Grossberg, Michael Kuperstein
+T.H.A. Van Der Voort
+Stephen Grossberg
+Stephen Grossberg
+Matthews, G.
+Christman, S.
+Raz, N.
+Goldstein, G.
+Rothbart, Daniel
+Purcell, Catherine
+Hetherington, Stephen
+Reid, G.
+Simpson, G.B.
+Summers, J.J.
+Pastor, M.A.
+Mey, J.L.
+Zangemeister, W.H.
+Kelley, K.
+Macmillan, M.
+Enns, J.T.
+Hess, T.M.
+Lovelace, E.A.
+Parker, D.M.
+Goodman, D.
+MacKenzie, C.L.
+Roskos-Ewoldsen, B.
+Caverni, J.-P.
+Allen, P.A.
+Zetenyi, T.
+Chekaluk, E.
+Starkes, J.

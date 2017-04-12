@@ -1,0 +1,550 @@
+Advanced Natural Gas Engineering
+Coding and Decoding: Seismic Data
+Pressure Transient Formation and Well Testing: Convolution, Deconvolution and Nonlinear Estimation
+The Dusky Dolphin
+Beer in Health and Disease Prevention
+Genetically Modified Plants
+Plant Cell Biology
+Ensuring Global Food Safety
+Laboratory Animal Anaesthesia (Third Edition)
+Molecular Diagnostics
+Signal Transduction (Second Edition)
+Natural Killer Cells
+Molecular Diagnostics (Second Edition)
+RNA Methodologies (Fourth Edition)
+Essentials of Genomic and Personalized Medicine
+Optical Networks (Third Edition)
+Handbook of Digital Forensics and Investigation
+Electronic Design Automation
+User Experience Re-Mastered
+On the Development of China's Information Technology Industry
+Cisco CCNA/CCENT Exam 640-802, 640-822, 640-816 Preparation Kit
+Renewable Energy Systems
+Research on Energy Issues in China
+Configuration Management Metrics
+Fundamental Principles of Engineering Nanometrology
+Cognitive Radio Communications and Networks
+Multimodal Signal Processing
+SAE and the Evolved Packet Core
+Smart Building Systems for Architects, Owners and Builders
+The Mekong
+Bayesian Inference
+Auction Theory (Second Edition)
+Pricing, Risk, and Performance Measurement in Practice
+Mergers, Acquisitions, and Other Restructuring Activities (Fifth Edition)
+Optimizing Optimization
+Next Generation Datacenters in Financial Services
+The Sortino Framework for Constructing Portfolios
+Private Equity and Venture Capital in Europe
+Fatigue and Tribological Properties of Plastics and Elastomers
+Handbook of Silicon Based MEMS Materials and Technologies
+Mathematica Navigator (Third Edition)
+Partial Differential Equations & Boundary Value Problems with Maple (Second Edition)
+Cryptographic Boolean Functions and Applications
+Philosophy of Technology and Engineering Sciences
+Bone Cancer
+Guide to Research Techniques in Neuroscience
+Spacecraft Formation Flying
+The Social Validity Manual
+Evidence-Based Counseling and Psychotherapy for an Aging Population
+Principles and Practice of Implant Dentistry
+Special Care in Dentistry
+Restorative Dentistry (Second Edition)
+Meningiomas
+Heart Failure: A Companion to Braunwald's Heart Disease (Second Edition)
+Skeletal Imaging (Second Edition)
+Plant Biochemistry (Fourth Edition)
+Joe Celko's SQL for Smarties (Fourth Edition)
+Cyber Attacks
+Lakes on Mars
+Wire Technology
+Developments in Surface Contamination and Cleaning: Particle Deposition, Control and Removal
+Design Patterns for Embedded Systems in C
+Credit Engineering for Bankers (Second Edition)
+Practical Lock Picking
+Superlattice to Nanoelectronics (Second Edition)
+Neurofeedback and Neuromodulation Techniques and Applications
+20th European Symposium on Computer Aided Process Engineering
+Nucleation in Condensed Matter
+{Dislocations in Solids, Volume 16}
+GI/Liver Secrets (Fourth Edition)
+Anesthesia Secrets (Fourth Edition)
+Dermatopathology
+Practical Surgical Neuropathology
+Ocular Disease
+Diagnostic Pathology of Infectious Disease
+Cardiac Intensive Care (Second Edition)
+Complications of Urologic Surgery (Fourth Edition)
+Principles and Practice of Wrist Surgery
+Diagnostic Immunohistochemistry (Third Edition)
+Ashcraft's Pediatric Surgery (Fifth Edition)
+Pocket Companion to Brenner and Rector's The Kidney (Eighth Edition)
+Tui Na
+Rheumatology
+Neuromuscular Rehabilitation in Manual and Physical Therapy
+Special Tests in Musculoskeletal Examination
+The Pocket Podiatry Guide: Paediatrics
+Pregnancy and Childbirth
+Back Pain - A Movement Problem
+Chinese Herbal Formulas
+Chinese Herbal Medicines (Second Edition)
+Using Whole Body Vibration in Physical Therapy and Sport
+Acupuncture for Sports and Trauma Rehabilitation
+Diagnostic Techniques in Equine Medicine (Second Edition)
+Veterinary Ocular Pathology
+Handbook of Small Animal Radiology and Ultrasound (Second Edition)
+Cancer Management in Small Animal Practice
+Heart Development and Regeneration
+Light & Skin Interactions
+SQL Clearly Explained (Third Edition)
+Thoughts on Interaction Design
+The Essential Persona Lifecycle: Your Guide to Building and Using Personas
+Microsoft Virtualization
+Seven Deadliest Wireless Technologies Attacks
+Seven Deadliest Social Network Attacks
+Seven Deadliest Unified Communications Attacks
+Seven Deadliest Network Attacks
+Seven Deadliest USB Attacks
+Electronics Explained
+Reservoir Engineering Handbook (Fourth Edition)
+Digital Signal Processing 101
+CdTe and Related Compounds; Physics, Defects, Hetero- and Nano-structures, Crystal Growth, Surfaces and Applications, Part II
+Handbook of Physical Vapor Deposition (PVD) Processing (Second Edition)
+Lipid Analysis (Fourth Edition)
+Improving the Safety and Quality of Milk: Milk Production and Processing
+Delivering Performance in Food Supply Chains
+Winemaking Problems Solved
+Sensory Analysis for Food and Beverage Quality Control
+Managing Wine Quality: Viticulture and Wine Quality
+Chemical Deterioration and Physical Instability of Food and Beverages
+Case Studies in Novel Food Processing Technologies
+Environmental Assessment and Management in the Food Industry
+Cereal Grains
+Consumer-Driven Innovation in Food and Personal Care Products
+Separation, Extraction and Concentration Processes in the Food, Beverage and Nutraceutical Industries
+Oxidation in Foods and Beverages and Antioxidant Applications: Understanding Mechanisms of Oxidation and Antioxidant Activity
+Innovations in Food Labelling
+Freeze-Drying of Pharmaceutical and Food Products
+Managing Wine Quality: Oenology and Wine Quality
+Improving the Safety and Quality of Milk: Improving Quality in Milk Products
+Oxidation in Foods and Beverages and Antioxidant Applications: Management in Different Industry Sectors
+Bioalcohol Production
+Understanding and Mitigating Ageing in Nuclear Power Plants
+Advanced Power Plant Materials, Design and Technology
+Stand-Alone and Hybrid Wind Energy Systems
+Developments and Innovation in Carbon Dioxide (CO2) Capture and Storage Technology
+Geological Repository Systems for Safe Disposal of Spent Nuclear Fuels and Radioactive Waste
+Biodiesel Science and Technology
+Developments and Innovation in Carbon Dioxide (CO2) Capture and Storage Technology
+Forensic Polymer Engineering
+Tribology and Dynamics of Engine and Powertrain
+Textiles, Polymers and Composites for Buildings
+Blast Protection of Civil Infrastructures and Vehicles Using Composites
+Modelling and Predicting Textile Behaviour
+Advances in Structural Adhesive Bonding
+Applications of Nonwovens in Technical Textiles
+Advances in Yarn Spinning Technology
+Friction Stir Welding
+Drug-Device Combination Products
+Advances in Laser Materials Processing
+Vehicle Noise and Vibration Refinement
+Fire Toxicity
+High-Energy Ball Milling
+Advanced Piezoelectric Materials
+Failure Mechanisms of Advanced Welding Processes
+Surface Engineering of Light Alloys
+Non-Destructive Evaluation of Reinforced Concrete Structures: Deterioration Processes and Standard Test Methods
+Sintering of Advanced Materials
+Optical Switches
+Welding and Joining of Magnesium Alloys
+The Risk Management of Safety and Dependability
+The Independent Airport Planning Manual
+Advanced Direct Injection Combustion Engine Technologies and Development: Diesel Engines
+A Quick Guide to API 510 Certified Pressure Vessel Inspector Syllabus
+Non-Destructive Evaluation of Reinforced Concrete Structures: Non-Destructive Testing Methods
+High Temperature Deformation and Fracture of Materials
+Medical and Healthcare Textiles
+Smart Textile Coatings and Laminates
+Regenerative Medicine and Biomaterials for the Repair of Connective Tissues
+Metals for Biomedical Devices
+Biomedical Composites
+Biomaterials and Regenerative Medicine in Ophthalmology
+Management, Recycling and Reuse of Waste Composites
+Materials, Design and Manufacturing for Lightweight Vehicles
+Biomaterials and Devices for the Circulatory System
+Biointegration of Medical Implant Materials
+Woven Textile Structure
+Fatigue Life Prediction of Composites and Composite Structures
+Materials for Energy Efficiency and Thermal Comfort in Buildings
+Technical Textile Yarns
+Colour Measurement
+Advances in Textile Biotechnology
+Physical Properties and Applications of Polymer Nanocomposites
+Polymer Electrolytes
+Brittle Matrix Composites 9
+Freedom of Information and the Developing World
+India's Innovation Blueprint
+The Multi-Dimensions of Industrial Relations in the Asian Knowledge-Based Economies
+Web 2.0 and Libraries
+Global Research Without Leaving your Desk
+From Lending to Learning
+Female Entrepreneurship in East and South-East Asia
+The Art of People Management in Libraries
+Scientific Publishing
+Networked Collaborative Learning
+Web Project Management for Academic Libraries
+Gatekeepers of Knowledge
+Information Literacy Landscapes
+New Approaches to E-Reserve
+From Fear to Flow
+Information Literacy in the Digital Age
+Abstracts and Abstracting
+Measuring Academic Research
+A Practical Writing Guide for Academic Librarians
+Web 2.0 Knowledge Technologies and the Enterprise
+Libraries and Identity
+The Critical Assessment of Research
+Cataloguing Outside the Box
+The Google Generation
+Google and the Digital Divide
+Productivity for Librarians
+Customer Care
+The Evaluation of Research by Scientometric Indicators
+Leadership and Management of Quality in Higher Education
+Online Learning and Assessment in Higher Education
+Practical and Effective Management of Libraries
+Why Blog?
+Practical Open Source Software for Libraries
+The Lessons Learned Handbook
+Pursuing Information Literacy
+Facelifts for Special Libraries
+Active Learning Techniques for Librarians
+Open Access and its Practical Impact on the Work of Academic Librarians
+Transforming Research Libraries for the Global Knowledge Society
+Building a Digital Repository Program with Limited Resources
+A Practical Guide to Electronic Resources in the Humanities
+An Overview of the Changing Role of the Systems Librarian
+Imagine Your Library's Future
+News Search, Blogs and Feeds
+Online and Blended Business Education for the 21st Century
+Making a Collection Count
+Ontologies, Taxonomies and Thesauri in Systems Science and Systematics
+Scholarly Communication in Library and Information Services
+Practising Information Literacy
+Visionary Leaders for Information
+Numerical Time-Dependent Partial Differential Equations for Scientists and Engineers
+A Consumer's Guide to Dentistry (Second Edition)
+Contemporary Oral and Maxillofacial Pathology (Second Edition)
+Prevention in Clinical Oral Health Care
+Treatment Planning in Dentistry (Second Edition)
+A Clinical Guide to Dental Traumatology
+Clinical Review of Oral and Maxillofacial Surgery
+Current Therapy in Orthodontics
+Sedation (Fifth Edition)
+McDonald and Avery Dentistry for the Child and Adolescent (Ninth Edition)
+Principles and Practice of Laser Dentistry
+Problem Solving in Endodontics (Fifth Edition)
+McCracken's Removable Partial Prosthodontics (Twelfth Edition)
+Oral Medicine
+Legal Aspects of General Dental Practice
+Oral and Maxillofacial Surgery (Second Edition)
+Essential Human Disease for Dentists
+Biomechanics and Esthetic Strategies in Clinical Orthodontics
+Orthodontic Treatment of the Class II Noncompliant Patient
+Orthodontic Miniscrew Implants
+Orofacial Pain and Headache
+Tip-Edge Orthodontics and the Plus Bracket (Second Edition)
+Plastic Surgery Secrets Plus (Second Edition)
+Clinical Nuclear Cardiology (Fourth Edition)
+Comprehensive Clinical Nephrology (Fourth Edition)
+Fam's Musculoskeletal Examination and Joint Injection Techniques (Second Edition)
+Manual of Surgical Pathology (Third Edition)
+Pediatric Secrets (Fifth Edition)
+Radiology Secrets Plus (Third Edition)
+Emergency Medicine Secrets (Fifth Edition)
+Cardiovascular Magnetic Resonance (Second Edition)
+Minimally Invasive Percutaneous Spinal Techniques
+Aesthetic and Reconstructive Surgery of the Breast
+Diagnosis and Management of Adult Congenital Heart Disease (Second Edition)
+Weedon's Skin Pathology (Third Edition)
+High Yield Orthopaedics
+Transsphenoidal Surgery
+Fluid, Electrolyte and Acid-Base Physiology (Fourth Edition)
+Early Diagnosis and Treatment of Cancer Series: Colorectal Cancer
+Early Diagnosis and Treatment of Cancer Series: Breast Cancer
+Assisted Ventilation of the Neonate (Fifth Edition)
+Techniques in Hip Arthroscopy and Joint Preservation Surgery
+Endovascular Surgery (Fourth Edition)
+Brocklehurst's Textbook of Geriatric Medicine and Gerontology (Seventh Edition)
+Infectious Diseases of the Fetus and Newborn (Seventh Edition)
+Pediatric Allergy: Principles and Practice (Second Edition)
+Neuromuscular Disorders: Treatment and Management
+The Comprehensive Treatment of the Aging Spine
+Retinal Pharmacotherapy
+Uveitis (Fourth Edition)
+Pediatric Gastrointestinal and Liver Disease (Fourth Edition)
+Breastfeeding (Seventh Edition)
+Endosonography (Second Edition)
+Cartilage Surgery
+Imaging of Pain
+Reconstructive Foot and Ankle Surgery (Second Edition)
+Chronic Kidney Disease, Dialysis, and Transplantation (Third Edition)
+Catheter Ablation of Cardiac Arrhythmias (Second Edition)
+Massachusetts General Hospital Handbook of General Hospital Psychiatry (Sixth Edition)
+Treating Autoimmune Disease with Chinese Medicine
+The Consultation in Phytotherapy
+Medical Herbs
+Hypermobility, Fibromyalgia and Chronic Pain
+Acupuncture in Neurological Conditions
+Integrative Hypnotherapy
+Muscles and Meridians
+The Treatment of Pain with Chinese Herbs and Acupuncture (Second Edition)
+Yoga as Therapeutic Exercise
+Small Animal Endoscopy (Third Edition)
+Manual of Equine Reproduction (Third Edition)
+Equine Dentistry (Third Edition)
+Human-Animal Medicine
+Equine Ophthalmology (Second Edition)
+Equine Dermatology (Second Edition)
+Pyrolysis of Organic Molecules with Applications to Health and Environmental Issues
+The Agronomy and Economy of Important Tree Crops of the Developing World
+Enzyme Kinetics: Catalysis & Control
+Advances in Nanoporous Materials
+Physically Based Rendering (Second Edition)
+Interconnecting Smart Objects with IP
+Making EIM Enterprise Information Management Work for Business
+Integrated Reservoir Asset Management
+Up and Running with Autodesk Inventor Simulation 2011 (Second Edition)
+Electrical Codes, Standards, Recommended Practices and Regulations
+Electrical Safety Code Manual
+Sustainable Communities Design Handbook
+New Insights to Neuroimmune Biology
+Bayley-III Clinical Use and Interpretation
+Technologically Enhanced Natural Radiation
+MULTIPLE SCLEROSIS 3
+MOVEMENT DISORDERS 4
+{Handbook of Dynamical Systems, Volume 3}
+Introduction to Practice of Molecular Simulation
+Genetics and Evolution of Infectious Diseases
+Microbial Forensics (Second Edition)
+Handbook of Flotation Reagents: Chemistry, Theory and Practice
+Usability Testing Essentials
+A Guide to Kernel Exploitation
+Citrix XenDesktop Implementation
+Security for Microsoft Windows System Administrators
+Coal and Peat Fires: A Global Perspective
+Integrated Nanophotonic Devices
+Handbook of Financial Econometrics Tools and Techniques
+Handbook of Financial Econometrics Applications
+American Trypanosomiasis
+Manual of Pediatric Hematology and Oncology (Fifth Edition)
+Lectures on Dynamics of Stochastic Systems
+Handbook of the Biology of Aging (Seventh Edition)
+Compendium of Trace Metals and Marine Biota
+Smart Things
+CISSP Study Guide
+Space Safety Regulations and Standards
+Forensic Dental Evidence (Second Edition)
+Forms for the Therapist
+Handbook on Animal-Assisted Therapy (Third Edition)
+Synchrotron-Based Techniques in Soils and Sediments
+Carbonates in Continental Settings: Geochemistry, Diagenesis and Applications
+Principles of Electric Methods in Surface and Borehole Geophysics
+Securing the Smart Grid
+Managed Code Rootkits
+Regenerative Nephrology
+Mouse Behavioral Testing
+Handbook of Spent Hydroprocessing Catalysts
+Bacterial Infections of the Central Nervous System
+Nonlinear Ocean Waves and the Inverse Scattering Transform
+The Mýrdalsjökull Ice Cap, Iceland. Glacial processes, sediments and landforms on an active volcano
+Red Panda
+Stem Cells: Scientific Facts and Fiction
+The Practitioner's Guide to Data Quality Improvement
+Coal Gasification and Its Applications
+Handbook of Industrial Hydrocarbon Processes
+Virus Taxonomy: Eighth Report of the International Committee on Taxonomy of Viruses
+Mathematics for Neuroscientists
+Social Anxiety (Second Edition)
+Advances in Quaternary Entomology
+Olives and Olive Oil in Health and Disease Prevention
+Cereal Straw as a Resource for Sustainable Biomaterials and Biofuels
+Nitric Oxide (Second Edition)
+Fundamentals of Petroleum Refining
+Thermodynamics of Non-Equilibrium Processes for Chemists with a Particular Application to Catalysis
+Beyond the Usability Lab
+Design to Thrive
+Designing with the Mind in Mind
+Eleventh Hour Linux+
+PCI Compliance (Second Edition)
+Seven Deadliest Web Application Attacks
+Seven Deadliest Microsoft Attacks
+Digital Video Surveillance and Security
+Handbook of Pollution Prevention and Cleaner Production
+Introduction to Pattern Recognition
+Essential Mathcad for Engineering, Science, and Math (Second Edition)
+OFDM for Optical Communications
+Essential Matlab for Engineers and Scientists (Fourth Edition)
+Optical Performance Monitoring
+Pattern Recognition (Fourth Edition)
+Materials and Design (Second Edition)
+Construction Process Planning and Management
+Well Testing Project Management
+Hardware/Firmware Interface Design
+Integrated Design of Multiscale, Multifunctional Materials and Products
+Green Construction Project Management and Cost Oversight
+LEED Practices, Certification, and Accreditation Handbook
+Piping and Pipeline Calculations Manual
+FPGAs 101
+The Safety Relief Valve Handbook
+SD Card Projects Using the PIC Microcontroller
+Designing Embedded Systems with PIC Microcontrollers (Second Edition)
+Robert Lacoste's The Darker Side
+Structural Elements for Architects and Builders
+Sustainable Land Development and Restoration
+Working Guide to Pumps and Pumping Stations
+The Definitive Guide to the ARM Cortex-M3 (Second Edition)
+Ecology and Classification of North American Freshwater Invertebrates (Third Edition)
+An Introduction to Investment Banks, Hedge Funds, and Private Equity
+Global Bank Regulation
+Crime Scene Photography (Second Edition)
+Plastics in Medical Devices
+Principles of Gender-Specific Medicine (Second Edition)
+Osteoporosis in Men (Second Edition)
+The Law of Emergencies
+Disasters and Public Health
+Hospital and Healthcare Security (Fifth Edition)
+Hospital Emergency Response Teams
+Mechanisms of Memory (Second Edition)
+Principles of Addictions and the Law
+Digital Forensics for Network, Internet, and Cloud Computing
+Microsoft Windows Server 2008 R2
+Digital Triage Forensics
+Quantum Magnetic Resonance Imaging Diagnostics of Human Brain Disorders
+System Assurance
+Airworthiness (Second Edition)
+Optically Amplified WDM Networks
+VHDL 101
+Neuroinflammation
+Neuro-Oncology
+Obesity Prevention
+Irradiation of Food Commodities
+Hyperspectral Imaging for Food Quality Analysis and Control
+The Science of Grapevines
+Bioactive Foods in Promoting Health
+Environmental Biotechnology
+Environanotechnology
+No Code Required
+Virtualization and Forensics
+Microsoft Windows 7 Administrator's Reference
+Small-Format Aerial Photography
+Electrical Load Forecasting
+Handbook of Blind Source Separation
+Solar Cell Device Physics (Second Edition)
+Biomass Gasification and Pyrolysis
+Process Risk and Reliability Management
+Semiconductor Nanomaterials for Flexible Technologies
+Digital Media Processing
+Introduction to WinBUGS for Ecologists
+Genetic Diagnosis of Endocrine Disorders
+Human Factors in Aviation (Second Edition)
+Nutritional and Herbal Therapies for Children and Adolescents
+WAIS-IV Clinical Use and Interpretation
+Handbook of Mammalian Vocalization
+Principles of Regenerative Medicine (Second Edition)
+The MBR Book (Second Edition)
+Proceedings of the 2nd Annual Gas Processing Symposium
+The Refinery of the Future
+Understanding Motion Capture for Computer Animation (Second Edition)
+Entity Resolution and Information Quality
+Renewable Energy (Fourth Edition)
+Handbook of Pollution Prevention and Cleaner Production: Best Practices in the Agrochemical Industry
+Handbook of Fire and Explosion Protection Engineering Principles
+Subsea Engineering Handbook
+Neurological Disorders and Pregnancy
+Online Counseling (Second Edition)
+Radiometric Temperature Measurements: II. Applications
+Nanoclusters
+Fenner's Veterinary Virology (Fourth Edition)
+Modern Inorganic Synthetic Chemistry
+Eleventh Hour CISSP
+Safety Critical Systems Handbook
+Mobile WiMAX
+Rotating Flow
+Autonomic Network Management Principles
+MIMO
+Microsystems for Bioelectronics
+Oil Spill Science and Technology
+The Pituitary (Third Edition)
+Plasma Scattering of Electromagnetic Radiation (Second Edition)
+Handbook of Aging and the Social Sciences (Seventh Edition)
+Behavioral Treatments for Sleep Disorders
+Wave Length and Action Potentials: History of the International Federation of Clinical Neurophysiology
+Calculations for Molecular Biology and Biotechnology (Second Edition)
+Analytical Modelling of Fuel Cells
+Information Systems Transformation
+Trap Level Spectroscopy in Amorphous Semiconductors
+Crew Resource Management (Second Edition)
+Handbook of the Behavioral Neurobiology of Serotonin
+Electric and Hybrid Vehicles
+Membrane Technology
+The Repo Handbook (Second Edition)
+Treatment of Eating Disorders
+The Brain and Host Defense
+Scientific Bases for the Preparation of Heterogeneous Catalysts
+Characterization of Liquids, Nano- and Microparticulates, and Porous Bodies Using Ultrasound
+The HDL Handbook
+Managing Time in Relational Databases
+Analyzing Social Media Networks with NodeXL
+Dissecting the Hack (Revised First Edition)
+Metrics and Methods for Security Risk Management
+Micro-Manufacturing Engineering and Technology
+Handbook of Assessment in Clinical Gerontology (Second Edition)
+Sustainable Water for the Future: Water Recycling versus Desalination
+Carbonates in Continental Settings: Facies, Environments, and Processes
+Active Geophysical Monitoring
+A History of Weed Science in the United States
+Handbook of Basal Ganglia Structure and Function
+Aging, Ageism and Abuse
+Headache
+Child Abuse and Neglect
+A Guide to Sports and Injury Management
+Pocket Podiatry: Footwear and Foot Orthoses
+Diagnostic Radiology and Ultrasonography of the Dog and Cat (Fifth Edition)
+Handbook of Cell Signaling (Second Edition)
+Agile Development & Business Goals
+Enhanced Oil Recovery: Field Planning and Development Strategies
+Neurology Secrets (Fifth Edition)
+Movement Disorders in Childhood
+Tumors and Tumor-Like Conditions of the Lung and Pleura
+Evidence-Based Practice of Critical Care
+Responding to Terrorism
+Acupuncture in Manual Therapy
+Foot and Ankle Injection Techniques
+Reflexology in Pregnancy and Childbirth
+Canine and Feline Nutrition (Third Edition)
+Cardiology of the Horse (Second Edition)
+Small Animal Pediatrics
+Handbook of Epigenetics
+Handbook of Biosensors and Biosensor Kinetics
+Handbook of Heterocyclic Chemistry (Third Edition)
+Interpretation of Micromorphological Features of Soils and Regoliths
+Statistical Signal Processing for Neuroscience and Neurotechnology
+Advanced Industrial Control Technology
+Electricity Cost Modeling Calculations
+Natural Gas Hydrates in Flow Assurance
+Effective Interviewing and Interrogation Techniques (Third Edition)
+Global Perspectives on Childhood Obesity
+Osteoimmunology
+Biomarkers of Kidney Disease
+Human Chorionic Gonadotropin
+Signal Processing for Neuroscientists, A Companion Volume
+Cu(InGa)Se2 Based Thin Film Solar Cells
+Analysis of Complex Disease Association Studies
+Ninja Hacking
+Valuing Wind Generation on Integrated Power Systems
+Demystifying Embedded Systems Middleware
+Centrifugal Pump Handbook (Third Edition)
+Clean Coal Engineering Technology
+Modern Chemical Enhanced Oil Recovery
+Handbook of the Psychology of Aging (Seventh Edition)
